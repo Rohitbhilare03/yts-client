@@ -6,12 +6,15 @@ import { VideoTourComponent } from './video-tour.component';
 const routes: Routes = [
   {
     path: '',
-    component: VideoTourDetailsComponent
+    component: VideoTourComponent,
+    children:[
+      {
+        path: ':name',
+        component: VideoTourDetailsComponent
+      }
+    ]
   },
-  {
-    path: '/:name',
-    component: VideoTourDetailsComponent
-  }
+ 
 ];
 
 @NgModule({
