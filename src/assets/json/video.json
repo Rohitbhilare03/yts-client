@@ -1,0 +1,64 @@
+{
+    "Domestic": [
+        {
+            "name": "Goa",
+            "image" : "https://www.oyorooms.com/travel-guide/wp-content/uploads/2020/07/Goa.jpg",
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Church",
+                    "videoUrl": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Church",
+                    "videoUrl": ""
+                }
+            ]
+        },
+        {
+            "name": "Rajastan",
+            "image" : "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/06/Top-festivals-and-fairs-of-Rajasthan-for-you-to-explore-Hero-Image.jpg",
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Church",
+                    "videoUrl": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Church",
+                    "videoUrl": ""
+                }
+            ]
+        }
+    ],
+    "International": [
+        {
+            "Vietnam": [
+                {
+                    "id": 1,
+                    "name": "Church",
+                    "videoUrl": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Church",
+                    "videoUrl": ""
+                }
+            ],
+            "Bali": [
+                {
+                    "id": 1,
+                    "name": "Church",
+                    "videoUrl": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Church",
+                    "videoUrl": ""
+                }
+            ]
+        }
+    ]
+}

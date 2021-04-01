@@ -1,0 +1,46 @@
+<div id="page_caption" class="hasbg parallax" style="background-image:url(./assets/upload/pexels-photo-24377.jpg);" data-jarallax-video="https://www.youtube.com/watch?v=9HTEZkTA11Q">
+
+    <div class="page_title_wrapper">
+        <div class="page_title_inner">
+            <div class="page_title_content">
+                <h1>Destination + Video Header</h1>
+                <div class="page_tagline">
+                    This is sample of page tagline and you can set it up using page option </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- Begin content -->
+<div id="page_content_wrapper" class="hasbg ">
+    <!-- Begin content -->
+
+    <div class="inner">
+
+        <div class="inner_wrapper nopadding">
+
+            <div id="page_main_content" class="sidebar_content full_width fixed_column">
+
+                <div class="standard_wrapper">
+
+                    <div id="portfolio_filter_wrapper" class="gallery grid portrait four_cols portfolio-content section content clearfix" data-columns="3">
+
+                        <div class="element grid classic4_cols animated2" *ngFor="let destination of video?.Domestic">
+
+                            <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-2" [ngStyle]="{'background-image': 'url(' + destination.image + ')'}">
+                                <a class="tour_image" href="#"></a>
+                                <div class="portfolio_info_wrapper">
+                                    <h3>{{destination.name}}</h3>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <br class="clear" />
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

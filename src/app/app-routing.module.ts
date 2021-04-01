@@ -17,11 +17,11 @@ const routes: Routes = [
     component: LayoutComponent,
     loadChildren: () => import('./modules/about/about.module').then(m => m.AboutModule)
   },
-  // {
-  //   path: 'courses',
-  //   component: LayoutComponent,
-  //   loadChildren: () => import('./modules/courses/courses.module').then(m => m.CoursesModule)
-  // },
+  {
+    path: 'videotour',
+    component: LayoutComponent,
+    loadChildren: () => import('./modules/video-tour/video-tour.module').then(m => m.VideoTourModule)
+  },
   // // {
   // //   path: 'blog',
   // //   component: LayoutComponent,

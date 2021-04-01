@@ -1,0 +1,16 @@
+.videoFrame {
+    width: calc(100vw - 400px);
+    height: calc(100vh - 200px);
+}
+.videoFrame {
+    width: auto;
+    height: 450px;
+}
+.videoFrame {
+    width: 100%;
+}
+
+.sidebar_wrapper{
+    height: 450px;
+    overflow: scroll;
+}
