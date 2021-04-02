@@ -1,9 +1,10 @@
-<div id="page_caption" class="hasbg parallax" style="background-image:url(./assets/upload/pexels-photo-24377.jpg);" data-jarallax-video="https://www.youtube.com/watch?v=9HTEZkTA11Q">
+<div id="page_caption" class="hasbg parallax    blog_wrapper"
+    style="background-image:url(./assets/upload/pexels-photo-24377.jpg);">
 
     <div class="page_title_wrapper">
         <div class="page_title_inner">
             <div class="page_title_content">
-                <h1>Destination + Video Header</h1>
+                <h1>Blog Full + Grid Left Sidebar</h1>
                 <div class="page_tagline">
                     This is sample of page tagline and you can set it up using page option </div>
             </div>
@@ -11,36 +12,63 @@
     </div>
 
 </div>
-<!-- Begin content -->
-<div id="page_content_wrapper" class="hasbg ">
-    <!-- Begin content -->
 
+<!-- Begin content -->
+<div id="page_content_wrapper" class="hasbg blog_wrapper">
     <div class="inner">
 
-        <div class="inner_wrapper nopadding">
+        <!-- Begin main content -->
+        <div class="inner_wrapper">
 
-            <div id="page_main_content" class="sidebar_content full_width fixed_column">
+            <div class="page_content_wrapper"></div>
 
-                <div class="standard_wrapper">
+            <div class="sidebar_content ">
 
-                    <div id="portfolio_filter_wrapper" class="gallery grid portrait four_cols portfolio-content section content clearfix" data-columns="3">
+                <div class="videoFrame">
+                    <iframe width="100%" height="100%" src="`https://www.youtube.com/embed/${}`"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
+                </div>
+                <h2 className="video__title">Title</h2>
 
-                        <div class="element grid classic4_cols animated2" *ngFor="let destination of video?.Domestic">
+            </div>
 
-                            <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-2" [ngStyle]="{'background-image': 'url(' + destination.image + ')'}">
-                                <a class="tour_image" href="#"></a>
-                                <div class="portfolio_info_wrapper">
-                                    <h3>{{destination.name}}</h3>
+            <div class="sidebar_wrapper ">
+
+                <div class="sidebar_top"></div>
+
+                <div class="sidebar">
+
+                    <div class="content">
+
+                        <ul class="sidebar_widget">
+                            <li id="grandtour_tour_posts-4" class="widget Grandtour_Tour_Posts">
+                                <h2 class="widgettitle"></h2>
+                                <div class="one gallery1 grid static filterable portfolio_type themeborder"
+                                    [ngStyle]="{'background-image': 'url(' + item.thumbnail + ')'}"
+                                    *ngFor="let item of videoList">
+                                    <a class="tour_image" (click)="selectVideo(item.id)" href="javascript:void(0)"></a>
+                                    <div class="portfolio_info_wrapper">
+                                        <h5>{{item.name}}</h5>
+                                        <div class="tour_attribute_wrapper">
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
+                                <br class="clear" />
+                            </li>
+                        </ul>
 
                     </div>
-                    <br class="clear" />
 
                 </div>
+                <br class="clear" />
+
+                <div class="sidebar_bottom"></div>
             </div>
 
         </div>
+        <!-- End main content -->
+
     </div>
 </div>

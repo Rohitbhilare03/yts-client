@@ -7,13 +7,21 @@ const routes: Routes = [
   {
     path: '',
     component: VideoTourComponent,
-    children:[
-      {
-        path: ':name',
-        component: VideoTourDetailsComponent
-      }
-    ]
+    // children:[
+    //   {
+    //     path: ':id',
+    //     component: VideoTourComponent
+    //   }
+    // ]
   },
+  {
+    path: ':id',
+    component: VideoTourComponent
+  },
+  {
+    path: ':id/:name',
+    component: VideoTourDetailsComponent
+  }
  
 ];
 
