@@ -14,3 +14,7 @@
     height: 450px;
     overflow: scroll;
 }
+.background-tint {
+    background-color: rgb(0 0 0 / 46%) !important;
+    background-blend-mode: multiply;
+  }

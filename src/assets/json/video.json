@@ -4,6 +4,7 @@
         {
             "name": "Goa",
             "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2020/07/Goa.jpg",
+            "banner" : "https://www.swantour.com/blogs/wp-content/uploads/2017/10/about-goa.jpg",
             "videos": [
                 {
                     "id": 1,
@@ -39,25 +40,25 @@
                     "id": 1,
                     "name": "Best of Kerala",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/yrWD-CBYct4"
+                    "videoUrl": "yrWD-CBYct4"
                 },
                 {
                     "id": 2,
                     "name": "Munnar",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/ZPv8Z_Uzodc"
+                    "videoUrl": "ZPv8Z_Uzodc"
                 },
                 {
                     "id": 3,
                     "name": "Allepey",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/_qa_AJcDpaY"
+                    "videoUrl": "_qa_AJcDpaY"
                 },
                 {
                     "id": 4,
                     "name": "Roadtrip to Kerala",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/Vt5CXsBhlG4"
+                    "videoUrl": "Vt5CXsBhlG4"
                 }
             ]
         },
@@ -69,25 +70,25 @@
                     "id": 1,
                     "name": "Best of Kerala",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/yrWD-CBYct4"
+                    "videoUrl": "yrWD-CBYct4"
                 },
                 {
                     "id": 2,
                     "name": "Munnar",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/ZPv8Z_Uzodc"
+                    "videoUrl": "ZPv8Z_Uzodc"
                 },
                 {
                     "id": 3,
                     "name": "Allepey",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/_qa_AJcDpaY"
+                    "videoUrl": "_qa_AJcDpaY"
                 },
                 {
                     "id": 4,
                     "name": "Roadtrip to Kerala",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/Vt5CXsBhlG4"
+                    "videoUrl": "Vt5CXsBhlG4"
                 }
             ]
         }
@@ -101,25 +102,25 @@
                     "id": 1,
                     "name": "Bali Cultural Places",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/aJbhHJHwtnM"
+                    "videoUrl": "aJbhHJHwtnM"
                 },
                 {
                     "id": 2,
                     "name": "Bali",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/DxZ9gsoDqb4"
+                    "videoUrl": "DxZ9gsoDqb4"
                 },
                 {
                     "id": 3,
                     "name": "Holiday Plan",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/fYY5_jBygvo"
+                    "videoUrl": "fYY5_jBygvo"
                 },
                 {
                     "id": 4,
                     "name": "Bali Guide",
                     "thumbnail": "",
-                    "videoUrl": "https://youtu.be/w_AVw_qx1ck"
+                    "videoUrl": "w_AVw_qx1ck"
                 }
             ]
         },
@@ -132,25 +133,25 @@
                         "id": 1,
                         "name": "Adharan Club Rahanali",
                         "thumbnail": "",
-                        "videoUrl": "https://youtu.be/oVc_XpvDs78"
+                        "videoUrl": "oVc_XpvDs78"
                     },
                     {
                         "id": 2,
                         "name": "Underwater Restaurant",
                         "thumbnail": "",
-                        "videoUrl": "https://youtu.be/yQ9Cj7HWV9I"
+                        "videoUrl": "yQ9Cj7HWV9I"
                     },
                     {
                         "id": 3,
                         "name": "Paradise Island",
                         "thumbnail": "",
-                        "videoUrl": "https://youtu.be/o5udzJrE5h8"
+                        "videoUrl": "o5udzJrE5h8"
                     },
                     {
                         "id": 4,
                         "name": "Maldives",
                         "thumbnail": "",
-                        "videoUrl": "https://youtu.be/n9orHWu8zQA"
+                        "videoUrl": "n9orHWu8zQA"
                     }
                 ]
             ]
