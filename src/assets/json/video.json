@@ -5,6 +5,18 @@
             "name": "Goa",
             "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2020/07/Goa.jpg",
             "banner" : "https://www.swantour.com/blogs/wp-content/uploads/2017/10/about-goa.jpg",
+            "tagLine" : "Goa is a heady concoction of thrill and fun that is too hard to resist.",
+            "Information" : "Goa is a heady concoction of thrill and fun that is too hard to resist. Its spectacular beaches, buzzing flea markets, adventurous water sports, dining options, pulsating clubs and pubs, all come together to create a vivacious ambiance.",
+            "bestPlaces" : [
+                {
+                    "image" : "https://www.fabhotels.com/blog/wp-content/uploads/2019/02/rande-Island-For-Scuba-Diving.jpg" , 
+                    "name" : "Grande Island (For Scuba Diving)"
+                },
+                {
+                    "name" : "Palolem Beach (For Kayaking)",
+                    "image" : "https://www.fabhotels.com/blog/wp-content/uploads/2019/02/Palolem-Beach-For-Kayaking.jpg"
+                }
+            ],
             "videos": [
                 {
                     "id": 1,
@@ -33,8 +45,116 @@
             ]
         },
         {
+            "name": "North East",
+            "image": "https://www.travelescape.in/wp-content/uploads/2019/06/Dwaki-Meghalaya-800x533.jpg",
+            "banner" : "https://mapking.co.in/new/wp-content/uploads/2020/10/north-east-1536x610.jpg",
+            "tagLine" : "North East is nothing but Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland and Tripura are the original Seven Sisters",
+            "Information" : "North-East India is one of the most fascinating places of India and of the world, located at the northeastern region of India, and consisting of 7 states, called collectively as 'the seven sisters'. Much of the region has been left unexplored till date, owning to the regions formidable terrain consisting of mountains, hills, rainforests, river, jungles and predators, and deficiency of infrastructure. The small sized region has one of the highest biodiversity density found anywhere in the world.",
+            "bestPlaces" : [
+                {
+                    "image" : "https://images.thrillophilia.com/image/upload/s--wGxoDqR3--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/128/901/original/1529317809_shutterstock_484777531.jpg.jpg" , 
+                    "name" : "Tsomgo Lake, Sikkim"
+                },
+                {
+                    "name" : "Nohkalikai Falls, Meghalaya",
+                    "image" : "https://images.thrillophilia.com/image/upload/s--vpbDoXFn--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/128/894/original/1529316742_shutterstock_1086194036.jpg.jpg"
+                },
+                {
+                    "name" : "Loktak Lake, Manipur",
+                    "image" : "https://images.thrillophilia.com/image/upload/s--kcX0xzNi--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/128/930/original/1529388517_shutterstock_730883467.jpg.jpg"
+                },
+                {
+                    "name" : "Siang River Rafting, Arunachal Pradesh",
+                    "image" : "https://images.thrillophilia.com/image/upload/s--_SKZCgPT--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/128/865/original/1529314168_3.jpg.jpg"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Gangtok-Sikkim",
+                    "thumbnail": "https://www.stayapart.in/gangtok/images/slider-001.jpg",
+                    "videoUrl": "qU44oDzUjhc"
+                },
+                {
+                    "id": 2,
+                    "name": "Sikkim",
+                    "thumbnail": "https://media.cntraveller.in/wp-content/uploads/2020/09/sikkim-travel-866x487.jpg",
+                    "videoUrl": "iXuiNsjh4Jk"
+                },
+                {
+                    "id": 3,
+                    "name": "Sikkim-Nature's Paradise",
+                    "thumbnail": "https://www.hikerwolf.com/wp-content/uploads/2020/04/sikkim-tourist-places-1280x800.jpg",
+                    "videoUrl": "-aXQDF5-Fk"
+                },
+                {
+                    "id": 4,
+                    "name": "Scenic Sikkim",
+                    "thumbnail": "https://sevendiary.com/wp-content/uploads/2013/06/Sikkim-hills.jpg",
+                    "videoUrl": "nUgjwZ_jq2g"
+                },
+                {
+                    "id": 5,
+                    "name": "Guwahati",
+                    "thumbnail": "https://images.assettype.com/indynetwork/2020-12/cc8268a7-dfd5-497a-99c7-1fd45065788d/Ariel_view_of_the_Gauhati_High_Court_building_and_Digholi_Pukhuri_in_the_heart_of_Guwahati.jpg?w=1200&h=675",
+                    "videoUrl": "1EEHjpv4De4"
+                },
+                {
+                    "id": 6,
+                    "name": "Tawang",
+                    "thumbnail": "https://images.cnbctv18.com/wp-content/uploads/2018/12/cover16-768x508.jpg",
+                    "videoUrl": "u5q6UDZ4_BM"
+                },
+                {
+                    "id": 7,
+                    "name": "Dzukou valley",
+                    "thumbnail": "https://static2.tripoto.com/media/filter/nl/img/572953/TripDocument/1549968298_dzukou_valley.jpg",
+                    "videoUrl": "ymHE-gvFSkU"
+                },
+                {
+                    "id": 8,
+                    "name": "Nagaland",
+                    "thumbnail": "https://d2r2ijn7njrktv.cloudfront.net/IL/uploads/2020/07/01141015/Nagaland-Photo-credit-picuki.com_-1068x1335.jpg",
+                    "videoUrl": "NvS_LtkQIBQ"
+                },
+                {
+                    "id": 9,
+                    "name": "Majuli Island",
+                    "thumbnail": "https://alltravel-story.com/wp-content/uploads/2020/07/Bamboo-Bridge-at-Majuli-Island.jpg",
+                    "videoUrl": "6YoEv09e4H8"
+                },
+                {
+                    "id": 10,
+                    "name": "Tripura",
+                    "thumbnail": "https://www.deartravels.in/wp-content/uploads/2020/02/AGARTALA.jpg",
+                    "videoUrl": "pnyh2xhG6UI"
+                }
+            ]
+        },
+        {
             "name": "Kerala",
             "image": "https://static.toiimg.com/thumb/76405061/kerala.jpg?width=1200&height=900",
+            "banner" : "https://blog.thomascook.in/wp-content/uploads/2020/08/Kerala-banner.jpg",
+            "tagLine" : "Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline.",
+            "Information" : "Kerala is South India's most serenely beautiful state. This slender coastal strip is defined by its layered landscape: almost 600km of glorious Arabian Sea coast and beaches; a languid network of glistening backwaters; and the spice- and tea-covered hills of the Western Ghats, dotted with fiercely protected wildlife reserves and cool hill stations such as Munnar",
+            "bestPlaces" : [
+                {
+                    "image" : "https://images.thrillophilia.com/image/upload/s--ahDOfp4M--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/171/532/original/1568887378_shutterstock_1238920744.jpg.jpg" , 
+                    "name" : "Alleppey"
+                },
+                {
+                    "name" : "Wayanad",
+                    "image" : "https://images.thrillophilia.com/image/upload/s--WHwY6yvX--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/171/534/original/1568887641_shutterstock_1013834887.jpg.jpg"
+                },
+                {
+                    "name" : "Cochin",
+                    "image" : "https://images.thrillophilia.com/image/upload/s--UZWLRgYd--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/171/535/original/1568887796_shutterstock_677104483.jpg.jpg"
+                },
+                {
+                    "name" : "Munnar",
+                    "image" : "https://images.thrillophilia.com/image/upload/s--ZsKld1m1--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/171/533/original/1568887505_shutterstock_377921479.jpg.jpg"
+                }
+            ],
             "videos": [
                 {
                     "id": 1,

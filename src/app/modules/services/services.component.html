@@ -1,0 +1,88 @@
+<div id="page_caption" class="hasbg parallax"
+[ngStyle]="{'background-image': 'url(' + selectedService?.banner + ')'}"
+ data-jarallax-video="https://youtu.be/NWD-TTSJqek">
+
+    <div class="page_title_wrapper">
+        <div class="page_title_inner">
+            <div class="page_title_content">
+                <h1>{{selectedService?.name}}</h1>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Begin content -->
+<div id="page_content_wrapper" class="hasbg ">
+    <div class="inner">
+
+        <!-- Begin main content -->
+        <div class="inner_wrapper">
+
+            <div class="sidebar_content full_width ">
+                <div class=" sidebar_content page_content" id="here">
+                    <blockquote>
+                        <p>{{selectedService?.intro}}</p>
+                    </blockquote>
+                    <h4 class="p1"><span class="s1">Exploring the Area</span></h4>
+                    <p class="p2">{{selectedService?.subtext}}</p>
+                    <div id="portfolio_filter_wrapper"
+                        class="gallery four_cols portfolio-content section content clearfix" data-columns="4">
+                        <div class="element grid classic4_cols" *ngFor="let item of selectedService?.services">
+
+                            <div class="one_fourth gallery4 static filterable gallery_type animated4" data-id="post-4">
+
+                                <a data-caption="The road to success and the road to failure are almost exactly the same"
+                                    class="fancy-gallery" href="./assets/upload/venice-WBEUROCITIES16.jpg">
+                                    <img [src]="item.image" alt="">
+                                    <div class="tour_price " style="color: black;text-align: center;">
+                                        {{item.name}}</div>
+                                </a>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+                <div class="sidebar_wrapper">
+                    <div class="sidebar">
+
+                        <div class="content">
+
+                            <ul class="sidebar_widget">
+                                <li id="text-6" class="widget widget_text">
+                                    <h2 class="widgettitle">Can&#8217;t Find Answer? Ask Us</h2>
+                                    <div class="textwidget">
+                                        <app-form></app-form>
+                                    </div>
+                                </li>
+                                <li id="text-7" class="widget widget_text">
+                                    <h2 class="widgettitle">Contact for More Information</h2>
+                                    <div class="textwidget">
+                                        <p><span class="ti-mobile" style="margin-right:10px;"></span> <a
+                                                href="tel:9619857770">9619857770 </a></p>
+                                        <p> <span class="ti-email" style="margin-right:10px;"></span> <a
+                                                href="mailto:enquiry@yourtravelstories.in">enquiry@yourtravelstories.in</a>
+                                        </p>
+                                        <p> <span class="ti-location-pin" style="margin-right:10px;"></span>Santacruz ,
+                                            Mumbai </p>
+                                        <p> <span class="ti-alarm-clock" style="margin-right:10px;"></span>Mon &#8211;
+                                            Sat 8.00 &#8211; 18.00 Sunday CLOSED</p>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+
+        </div>
+        <!-- End main content -->
+
+    </div>
+</div>
+<br class="clear" />

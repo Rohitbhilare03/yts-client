@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { BehaviorSubject, Observable, Subject } from 'rxjs';
 
 @Component({
   selector: 'app-video-tour',
@@ -10,13 +11,17 @@ import { ActivatedRoute } from '@angular/router';
 export class VideoTourComponent implements OnInit {
   video: any;
   name: any;
-  type: string;
+  type : string;
   filteredVideo : any;
 
-  constructor(private httpClient: HttpClient, private router : ActivatedRoute) { }
-  ngOnInit(): void {  
-    this.type = this.router.snapshot.paramMap.get('id');
-    this.loadDestinations();
+
+  constructor(private httpClient: HttpClient, private router : ActivatedRoute) { 
+  }
+  ngOnInit(): void {
+    this.router.params.subscribe(queryParams => {
+      this.type = queryParams.id;
+      this.loadDestinations();
+    }); 
   }
 
   loadDestinations(){
@@ -28,8 +33,6 @@ export class VideoTourComponent implements OnInit {
         this.filteredVideo = this.video['International'];
       else
         this.filteredVideo = this.video['International'].concat( this.video['Domestic']);
-      console.log(this.filteredVideo);
-      
     })
   }
 }

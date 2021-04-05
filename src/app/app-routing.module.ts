@@ -22,6 +22,11 @@ const routes: Routes = [
     component: LayoutComponent,
     loadChildren: () => import('./modules/video-tour/video-tour.module').then(m => m.VideoTourModule)
   },
+  {
+    path: 'services',
+    component: LayoutComponent,
+    loadChildren: () => import('./modules/services/services.module').then(m => m.ServicesModule)
+  },
   // // {
   // //   path: 'blog',
   // //   component: LayoutComponent,

@@ -1,0 +1,291 @@
+[
+    { 
+        "name" : "Flight",
+        "video" : "https://youtu.be/xsF7i24NK0I",
+        "banner" : "https://ei.marketwatch.com/Multimedia/2019/02/25/Photos/ZQ/MW-HE536_airpla_20190225131547_ZQ.jpg?uuid=5fa81d1a-3929-11e9-9462-ac162d7bc1f7",
+        "intro" : "Flying is the second greatest thrill known to man... Landing is first..!! - Dont worry We provide best fares",
+        "subtext" : "We work closely with your requirement, and work hard to get best competetive reates for Booking Flight. Also We try to reduce cancelation amount as much we can.",
+        "services" : [
+            {
+                "name" : "Booking",
+                "image" : "https://blog.air.irctc.co.in/wp-content/uploads/2019/12/Online-Flight-Booking-Offers.jpg"
+            },
+            {
+                "name" : "Cancellation",
+                "image" : "https://www.euroweeklynews.com/wp-content/uploads/2020/03/FLIGHT-1200x1046.jpg"
+            },
+            {
+                "name" : "Seat Reservation",
+                "image" : "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201708/flightstory_647_080317024441.jpg"
+            },
+            {
+                "name" : "Discounts",
+                "image" : "https://ureadthis.com/wp-content/uploads/2017/10/Best-Flight-Deal1.jpg"
+            }
+        ]
+    },
+    { 
+        "name" : "Hotels",
+        "banner": "https://www.tripsavvy.com/thmb/a3CLUy03EsA39iuLVBWkKX3eWtg=/1440x810/filters:no_upscale():max_bytes(150000):strip_icc()/ITCMaratha-5c096b0f46e0fb00011c9e0c.jpg",
+        "video":"https://youtu.be/NWD-TTSJqek",
+        "intro" : "Relax wherever you go.! We undertake Hotel.",
+        "subtext" : "We work closely with you, from inception to execution, to deliver a customised programme suited to your specific aims and objectives. We strive to ensure flawless delivery of services with a view to creating a wow experiences for the programme participants. Few reference for MICE executed earlier are below",
+        "services" : [
+            {
+                "name" : "Hotel",
+                "image" : "https://www.ahstatic.com/photos/7087_ho_00_p_1024x768.jpg"
+            },
+            {
+                "name" : "Villas",
+                "image" : "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_4000,h_2000/https://verdeh.com/wp-content/uploads/2018/09/La-Quinta-Piscina-noche-4000x2000.jpg"
+            },
+            {
+                "name" : "Resort",
+                "image" : "https://cf.bstatic.com/images/hotel/max1024x768/100/100058763.jpg"
+            },
+            {
+                "name" : "Apartments",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            }
+        ]
+    },
+    { 
+        "name" : "MICE",
+        "banner": "https://www.tripsavvy.com/thmb/a3CLUy03EsA39iuLVBWkKX3eWtg=/1440x810/filters:no_upscale():max_bytes(150000):strip_icc()/ITCMaratha-5c096b0f46e0fb00011c9e0c.jpg",
+        "video":"https://youtu.be/NWD-TTSJqek",
+        "intro" : "Yes! We undertake MICE queries as well.",
+        "subtext" : "We work closely with you, from inception to execution, to deliver a customised programme suited to your specific aims and objectives. We strive to ensure flawless delivery of services with a view to creating a wow experiences for the programme participants. Few reference for MICE executed earlier are below",
+        "services" : [
+            {
+                "name" : "Meetings",
+                "image" : "https://www.ahstatic.com/photos/7087_ho_00_p_1024x768.jpg"
+            },
+            {
+                "name" : "Incentives",
+                "image" : "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_4000,h_2000/https://verdeh.com/wp-content/uploads/2018/09/La-Quinta-Piscina-noche-4000x2000.jpg"
+            },
+            {
+                "name" : "Conference",
+                "image" : "https://cf.bstatic.com/images/hotel/max1024x768/100/100058763.jpg"
+            },
+            {
+                "name" : "Exhibitions",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            }
+        ]
+    },
+    { 
+        "name" : "Tours",
+        "banner": "https://www.tripsavvy.com/thmb/a3CLUy03EsA39iuLVBWkKX3eWtg=/1440x810/filters:no_upscale():max_bytes(150000):strip_icc()/ITCMaratha-5c096b0f46e0fb00011c9e0c.jpg",
+        "video":"https://youtu.be/NWD-TTSJqek",
+        "intro" : "Visit whole world with us.",
+        "subtext" : "Traveling is a very crucial part of life as it is the best way to get out of the busy schedule. It is also to experience life in different ways . Traveling is actually a good remedy for stress, anxiety and depression",
+        "services" : [
+            {
+                "name" : "Rajastan",
+                "image" : "https://www.ahstatic.com/photos/7087_ho_00_p_1024x768.jpg"
+            },
+            {
+                "name" : "Uttarakhand",
+                "image" : "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_4000,h_2000/https://verdeh.com/wp-content/uploads/2018/09/La-Quinta-Piscina-noche-4000x2000.jpg"
+            },
+            {
+                "name" : "Tamil Nadu",
+                "image" : "https://cf.bstatic.com/images/hotel/max1024x768/100/100058763.jpg"
+            },
+            {
+                "name" : "Goa",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Kerala",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Kashmir",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Himachal",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Thiland",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Singapore",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Maldives",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Dubai",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Mauritius",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Europe",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Sri Lanka",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            }
+        ]
+    },
+    { 
+        "name" : "Adventure",
+        "banner": "https://www.tripsavvy.com/thmb/a3CLUy03EsA39iuLVBWkKX3eWtg=/1440x810/filters:no_upscale():max_bytes(150000):strip_icc()/ITCMaratha-5c096b0f46e0fb00011c9e0c.jpg",
+        "video":"https://youtu.be/NWD-TTSJqek",
+        "intro" : "Relax wherever you go.! We undertake Adventure - Villa, 3 Star to 5 Star queries as well.",
+        "subtext" : "Adventures may be activities with some potential for physical danger such as traveling, exploring, skydiving, mountain climbing, scuba diving, river rafting or participating in extreme sports.        ",
+        "services" : [
+            {
+                "name" : "Wildlife",
+                "image" : "https://www.ahstatic.com/photos/7087_ho_00_p_1024x768.jpg"
+            },
+            {
+                "name" : "Scuba Dinning",
+                "image" : "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_4000,h_2000/https://verdeh.com/wp-content/uploads/2018/09/La-Quinta-Piscina-noche-4000x2000.jpg"
+            },
+            {
+                "name" : "Rock Climbing",
+                "image" : "https://cf.bstatic.com/images/hotel/max1024x768/100/100058763.jpg"
+            },
+            {
+                "name" : "Trekking",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Rafting",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Bungee Jumping",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Sky diving",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Paragliding",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Skiing",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Camping",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Caving",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Horse/Camel/Jeep Safari",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            }
+          
+        ]
+    },
+    { 
+        "name" : "Car",
+        "banner": "https://www.tripsavvy.com/thmb/a3CLUy03EsA39iuLVBWkKX3eWtg=/1440x810/filters:no_upscale():max_bytes(150000):strip_icc()/ITCMaratha-5c096b0f46e0fb00011c9e0c.jpg",
+        "video":"https://youtu.be/NWD-TTSJqek",
+        "intro" : "Sometimes the road less traveled is less traveled for a reason.......!",
+        "subtext" : "You need car .. we are here to provide best and affordable car on rent. (SUV, Sedan, Bus)        ",
+        "services" : [
+            {
+                "name" : "Flexi Pricing Packages",
+                "image" : "https://www.ahstatic.com/photos/7087_ho_00_p_1024x768.jpg"
+            },
+            {
+                "name" : "Safe & Comfirt",
+                "image" : "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_4000,h_2000/https://verdeh.com/wp-content/uploads/2018/09/La-Quinta-Piscina-noche-4000x2000.jpg"
+            },
+            {
+                "name" : "Go Anywhere",
+                "image" : "https://cf.bstatic.com/images/hotel/max1024x768/100/100058763.jpg"
+            },
+            {
+                "name" : "24x7 Roadside Assistance",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            }
+        ]
+    },
+    { 
+        "name" : "Cruises",
+        "banner": "https://www.tripsavvy.com/thmb/a3CLUy03EsA39iuLVBWkKX3eWtg=/1440x810/filters:no_upscale():max_bytes(150000):strip_icc()/ITCMaratha-5c096b0f46e0fb00011c9e0c.jpg",
+        "video":"https://youtu.be/NWD-TTSJqek",
+        "intro" : "Every love story is beautiful, but yours should be unique.: We are here to do it......!        ",
+        "subtext" : "Weddings are significant events in people's lives and as such, couples are often willing to spend considerable amount of money to ensure that their weddings are well-organized        ",
+        "services" : [
+            {
+                "name" : "Accomodation",
+                "image" : "https://www.ahstatic.com/photos/7087_ho_00_p_1024x768.jpg"
+            },
+            {
+                "name" : "Entertainment",
+                "image" : "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_4000,h_2000/https://verdeh.com/wp-content/uploads/2018/09/La-Quinta-Piscina-noche-4000x2000.jpg"
+            },
+            {
+                "name" : "Specialty Dining",
+                "image" : "https://cf.bstatic.com/images/hotel/max1024x768/100/100058763.jpg"
+            },
+            {
+                "name" : "Excursions",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            }
+        ]
+    },
+    { 
+        "name" : "Wedding",
+        "banner": "https://www.tripsavvy.com/thmb/a3CLUy03EsA39iuLVBWkKX3eWtg=/1440x810/filters:no_upscale():max_bytes(150000):strip_icc()/ITCMaratha-5c096b0f46e0fb00011c9e0c.jpg",
+        "video": "https://youtu.be/NWD-TTSJqek",
+        "intro" : "सर्वमंगल मांगल्ये शिवे सवार्थ साधिके शरण्येत्र्यंबके गौरी नारायणी नमोस्तुते",
+        "subtext" : "Our goal has always been to have happy clients. We know the key to happy clients is a fun experience. We help our couples plan at their own pace, avoid overwhelm, and keep everything organized in one place. Of course, we're here, every step of the way.</br> We are your go-to people when it comes to wedding and event styling and florals. We can do as much or as little as you need – looking after all styling, hire and the all-important blooms. We think of everything so that you don’t have to and we pride ourselves on always having your best interest at heart. When you’re planning a wedding, it’s easy to feel stressed and become overwhelmed. Not only is there so much to plan, but so many places to go and so many things that have to get done. It may seem like you’ll never get it all taken care of in time. Weddings can be stressful to plan, and surviving wedding season is tough. With our help, though, you’ll have everything under control in no time and will get to spend more, much-needed quality time with your sweetheart. We plan, design and style your celebration from top to bottom, help with the finest of details and ensure you are over-the-moon with the outcome. Our passion, commitment and readiness to help is crystal clear throughout the whole process and will ensure your special occasion is perfect for you.   Take a wander through our galleries, check out our services, pop over to our love page and then drop a line to say hello!",
+        "services" : [
+            {
+                "name" : "Planning & Coordination",
+                "image" : "https://www.ahstatic.com/photos/7087_ho_00_p_1024x768.jpg"
+            },
+            {
+                "name" : "Styling",
+                "image" : "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_4000,h_2000/https://verdeh.com/wp-content/uploads/2018/09/La-Quinta-Piscina-noche-4000x2000.jpg"
+            },
+            {
+                "name" : "Venue Selection, Theming & Decor",
+                "image" : "https://cf.bstatic.com/images/hotel/max1024x768/100/100058763.jpg"
+            },
+            {
+                "name" : "Photo Shoot",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Catering",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Wedding Portfolio",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Vendor Management",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            },
+            {
+                "name" : "Honeymoon Packages & Bookings",
+                "image" : "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2019/09/10/Project-Photo-2-Seawoods-Navi-Mumbai-5126345_600_800_310_462.jpg"
+            }
+        ]
+    }
+]

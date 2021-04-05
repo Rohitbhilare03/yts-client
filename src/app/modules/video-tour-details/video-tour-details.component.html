@@ -1,12 +1,12 @@
 <div id="page_caption" class="hasbg parallax blog_wrapper background-tint"
-[ngStyle]="{'background-image': 'url(' + currentLocation.banner + ')'}">
+[ngStyle]="{'background-image': 'url(' + currentLocation?.banner + ')'}">
 
     <div class="page_title_wrapper">
         <div class="page_title_inner">
             <div class="page_title_content">
-                <h1>{{currentLocation.name}}</h1>
+                <h1>{{currentLocation?.name}}</h1>
                 <div class="page_tagline">
-                    This is sample of page tagline and you can set it up using page option </div>
+                     </div>
             </div>
         </div>
     </div>
@@ -30,7 +30,27 @@
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
                 </div>
-                <h2 className="video__title">Title</h2>
+                <h2 className="video__title">{{currentLocation.name}}</h2>
+                <h4>{{currentLocation.tagLine}}</h4>
+                <p>{{currentLocation.Information}}</p>
+                <div *ngIf="currentLocation.bestPlaces.length > 0">
+                    <h2>Places to visit in {{currentLocation.name}}</h2>
+                    <div class="standard_wrapper">
+                        <div id="portfolio_filter_wrapper" class="gallery classic three_cols portfolio-content section content clearfix" data-columns="3">
+                            <div class="element grid classic2_cols animated2" *ngFor="let place of currentLocation.bestPlaces">
+                                <div class="one_half gallery2 classic static filterable portfolio_type themeborder" data-id="post-2">
+                                    <a class="tour_image" href="#">
+                                        <img [src]="place.image" alt="French Autumn">
+                                        <div class="tour_price ">
+                                            {{place.name}}</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <br class="clear">
+                    </div>
+                </div>
+                
 
             </div>
 

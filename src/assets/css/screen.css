@@ -1965,7 +1965,7 @@ body.js_nav.fade .header_style_wrapper
 #footer ul.sidebar_widget li ul.flickr li img
 {
 	width: 100%;
-	height: auto;
+	/* height: auto; */
 	border-radius: 5px;
 }
 

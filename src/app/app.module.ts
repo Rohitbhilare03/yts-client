@@ -8,13 +8,17 @@ import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
 import { LayoutComponent } from './layout/layout/layout.component';
 import { ContactComponent } from './modules/contact/contact.component';
+import { FormComponent } from './modules/services/form/form.component';
+import { ServicesComponent } from './modules/services/services.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LayoutComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    ServicesComponent,
+    FormComponent
   ],
   imports: [
     BrowserModule,
