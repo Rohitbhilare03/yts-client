@@ -27,11 +27,11 @@ const routes: Routes = [
     component: LayoutComponent,
     loadChildren: () => import('./modules/services/services.module').then(m => m.ServicesModule)
   },
-  // // {
-  // //   path: 'blog',
-  // //   component: LayoutComponent,
-  // //   loadChildren: () => import('./modules/blog/blog.module').then(m => m.BlogModule)
-  // // },
+  {
+    path: 'destination',
+    component: LayoutComponent,
+    loadChildren: () => import('./modules/destination/destination.module').then(m => m.DestinationModule)
+  },
   {
     path: 'contact',
     component: LayoutComponent,

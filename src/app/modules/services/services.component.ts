@@ -12,6 +12,7 @@ export class ServicesComponent implements OnInit {
   services: any;
   selectedService: any;
   video: string;
+  interestedArr : Array<any> = [];
 
   constructor(private httpClient: HttpClient, private router : ActivatedRoute) { }
 
@@ -26,8 +27,11 @@ export class ServicesComponent implements OnInit {
     this.httpClient.get("./assets/json/services.json").subscribe(data =>{
       this.services = data;
       this.selectedService = this.services.find(o => o.name.toLowerCase() === this.serviceName.toLowerCase());
-      this.video  = 'NWD-TTSJqek'
+      // this.video  = 'NWD-TTSJqek'
       window.scrollTo(100, 400)
+      this.interestedArr = this.selectedService.services;
+      // console.log(this.interestedArr);
+      
       // if(this.type == 'domestic')
       //   this.filteredVideo = this.video['Domestic'];
       // else if (this.type == 'international')

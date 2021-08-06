@@ -1,0 +1,46 @@
+<div id="page_caption" class="hasbg parallax" [ngStyle]="{'background-image': 'url(' + selectedLocation?.banner + ')'}">
+
+    <div class="page_title_wrapper">
+        <div class="page_title_inner">
+            <div class="page_title_content">
+                <h1>{{selectedLocation?.name}}</h1>
+                <!-- <div class="page_tagline">
+                    This is sample of page tagline and you can set it up using page option </div> -->
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Begin content -->
+<div id="page_content_wrapper" class="hasbg ">
+    <!-- Begin content -->
+
+    <div class="inner">
+
+        <div class="inner_wrapper nopadding">
+
+            <div id="page_main_content" class="sidebar_content full_width fixed_column">
+
+                <div class="standard_wrapper">
+
+                    <div id="portfolio_filter_wrapper" class="gallery grid portrait four_cols portfolio-content section content clearfix" data-columns="3">
+
+                        <div class="element grid classic4_cols animated2" *ngFor="let eachLoc of selectedLocation?.places">
+
+                            <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-2" [ngStyle]="{'background-image': 'url(' + eachLoc?.image + ')'}">
+                                {{eachLoc?.image}}<a class="tour_image" [routerLink]="['/destination/'+destination+'/'+ eachLoc.name]"></a>
+                                <div class="portfolio_info_wrapper">
+                                    <h3>{{eachLoc.name}}</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br class="clear" />
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

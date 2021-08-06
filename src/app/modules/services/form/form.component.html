@@ -1,13 +1,11 @@
 <div role="form" class="wpcf7" id="wpcf7-f3075-o1" lang="en-US" dir="ltr">
     <div class="screen-reader-response"></div>
-    <form action="#" method="post" class="wpcf7-form" novalidate="novalidate">
-
+    <form [formGroup]="form" class="wpcf7-form">
         <p>
             <label> First Name
                 <br />
-                <span class="wpcf7-form-control-wrap your-name"><input
-                        type="text" name="your-name" value="" size="40"
-                        class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                <span class="wpcf7-form-control-wrap your-name"><input formControlName="firstName"
+                        type="text" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                         aria-required="true" aria-invalid="false"
                         placeholder="First Name" /></span> </label>
         </p>
@@ -15,7 +13,7 @@
             <label> Last Name
                 <br />
                 <span class="wpcf7-form-control-wrap your-name"><input
-                        type="text" name="your-name" value="" size="40"
+                        type="text" size="40" formControlName="lastName"
                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                         aria-required="true" aria-invalid="false"
                         placeholder="Last Name" /></span> </label>
@@ -24,7 +22,7 @@
             <label> Email Address
                 <br />
                 <span class="wpcf7-form-control-wrap your-email"><input
-                        type="email" name="your-email" value="" size="40"
+                        type="email" size="40" formControlName="email"
                         class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
                         aria-required="true" aria-invalid="false"
                         placeholder="sample@yourcompany.com" /></span> </label>
@@ -32,8 +30,8 @@
         <p>
             <label> Phone Number
                 <br />
-                <span class="wpcf7-form-control-wrap tel-729"><input type="tel"
-                        name="tel-729" value="" size="40"
+                <span class="wpcf7-form-control-wrap tel-729"><input type="tel" formControlName="mobileNumber"
+                        name="tel-729" size="40"
                         class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel"
                         aria-required="true" aria-invalid="false" /></span>
             </label>
@@ -41,30 +39,25 @@
         <p>
             <label> Interested In
                 <br />
-                <span class="wpcf7-form-control-wrap menu-607"><select
+                <span class="wpcf7-form-control-wrap menu-607">
+                    <select multiple formControlName="interestedIn"
                         name="menu-607" class="wpcf7-form-control wpcf7-select"
                         id="interest-trip" aria-invalid="false">
-                        <option value="Asia Trip">Asia Trip</option>
-                        <option value="Europe Trip">Europe Trip</option>
-                        <option value="North America Trip">North America Trip
-                        </option>
-                        <option value="South America Trip">South America Trip
-                        </option>
-                        <option value="Australia Trip">Australia Trip</option>
+                        <option *ngFor="let item of interestedArray" [value]="item.name">{{item.name}}</option>
                     </select></span> </label>
         </p>
         <p>
             <label> Number of Person
                 <br />
-                <span class="wpcf7-form-control-wrap text-237"><input
-                        type="text" name="text-237" value="" size="40"
+                <span class="wpcf7-form-control-wrap text-237"><input formControlName="numberOfPersons"
+                        type="number" name="text-237" size="40"
                         class="wpcf7-form-control wpcf7-text"
                         aria-invalid="false" placeholder="1 person" /></span>
             </label>
         </p>
         <p>
-            <input type="submit" value="Send Message"
-                class="wpcf7-form-control wpcf7-submit" />
+            <input type="submit" value="Send Enquiry"
+                class="wpcf7-form-control wpcf7-submit" (click)="save()" />
         </p>
         <div class="wpcf7-response-output wpcf7-display-none"></div>
     </form>

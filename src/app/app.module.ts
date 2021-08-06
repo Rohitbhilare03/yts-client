@@ -10,6 +10,8 @@ import { LayoutComponent } from './layout/layout/layout.component';
 import { ContactComponent } from './modules/contact/contact.component';
 import { FormComponent } from './modules/services/form/form.component';
 import { ServicesComponent } from './modules/services/services.component';
+import { DestinationComponent } from './modules/destination/destination.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -18,12 +20,15 @@ import { ServicesComponent } from './modules/services/services.component';
     HeaderComponent,
     FooterComponent,
     ServicesComponent,
-    FormComponent
+    FormComponent,
+    DestinationComponent
   ],
   imports: [
     BrowserModule,
+    FormsModule, 
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

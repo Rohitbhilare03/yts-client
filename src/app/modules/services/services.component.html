@@ -1,7 +1,5 @@
-<div id="page_caption" class="hasbg parallax"
-[ngStyle]="{'background-image': 'url(' + selectedService?.banner + ')'}"
- data-jarallax-video="https://youtu.be/NWD-TTSJqek">
-
+<div id="page_caption" class="hasbg"
+[ngStyle]="{'background-image': 'url('+selectedService?.banner+')'}">
     <div class="page_title_wrapper">
         <div class="page_title_inner">
             <div class="page_title_content">
@@ -34,7 +32,7 @@
 
                                 <a data-caption="The road to success and the road to failure are almost exactly the same"
                                     class="fancy-gallery" href="./assets/upload/venice-WBEUROCITIES16.jpg">
-                                    <img [src]="item.image" alt="">
+                                    <img style="height: 140px;" [src]="item.image" alt="">
                                     <div class="tour_price " style="color: black;text-align: center;">
                                         {{item.name}}</div>
                                 </a>
@@ -53,15 +51,16 @@
                             <ul class="sidebar_widget">
                                 <li id="text-6" class="widget widget_text">
                                     <h2 class="widgettitle">Can&#8217;t Find Answer? Ask Us</h2>
-                                    <div class="textwidget">
-                                        <app-form></app-form>
+                                    <div class="textwidget" *ngIf="interestedArr.length > 0">
+                                        <app-form [interestedArray]="interestedArr"></app-form>
                                     </div>
                                 </li>
                                 <li id="text-7" class="widget widget_text">
                                     <h2 class="widgettitle">Contact for More Information</h2>
                                     <div class="textwidget">
                                         <p><span class="ti-mobile" style="margin-right:10px;"></span> <a
-                                                href="tel:9619857770">9619857770 </a></p>
+                                                href="tel:8451817189">8451817189, </a> <a
+                                                href="tel:8881618111">8881618111 </a></p>
                                         <p> <span class="ti-email" style="margin-right:10px;"></span> <a
                                                 href="mailto:enquiry@yourtravelstories.in">enquiry@yourtravelstories.in</a>
                                         </p>

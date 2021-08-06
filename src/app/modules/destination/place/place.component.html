@@ -1,0 +1,96 @@
+<div id="page_caption" class="hasbg parallax" [ngStyle]="{'background-image': 'url(' + selectedPlace?.banner + ')'}">
+
+    <div class="page_title_wrapper">
+        <div class="page_title_inner">
+            <div class="page_title_content">
+                <h1>{{selectedPlace?.name}}</h1>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Begin content -->
+<div id="page_content_wrapper" class="hasbg ">
+    <div class="inner">
+
+        <!-- Begin main content -->
+        <div class="inner_wrapper">
+            <div class="sidebar_content full_width ">
+                <div class="sidebar_content page_content">
+                    <blockquote *ngIf="selectedPlace?.tagline">
+                        <p>{{selectedPlace?.tagline}}</p>
+                    </blockquote>
+
+                    <h4 class="p1"><span class="s1">Exploring the Area</span></h4>
+                    <p class="p2">{{selectedPlace?.description}}</p>
+                    <h4 class="p1"><span class="s1">About {{selectedPlace?.name}}</span></h4>
+                    <p class="p2" [innerHTML]="selectedPlace?.longDescription"></p>
+
+                </div>
+
+                <div class="sidebar_wrapper">
+                    <div class="sidebar">
+
+                        <div class="content">
+
+                            <ul class="sidebar_widget">
+                                <li id="grandtour_cat_posts-6" class="widget Grandtour_Cat_Posts">
+                                    <ul class="posts blog withthumb ">
+                                        <li>
+                                            <h4>Largest Cities</h4>
+                                            <p>{{selectedPlace?.largestCity}}</p>
+                                        </li>
+                                        <li>
+                                            <h4>Nearest Airpots</h4>
+                                            <p>{{selectedPlace?.NearestAirport}}</p>
+                                        </li>
+                                        <li>
+                                            <h4>Official Language</h4>
+                                            <p>{{selectedPlace?.officialLang}}</p>
+                                        </li>
+                                        <li>
+                                            <h4>BestTime to Visit</h4>
+                                            <p>{{selectedPlace?.BestTime}}</p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+            
+            <div class="tour_related">
+                <h3 class="sub_title">Places to Visit in {{selectedPlace?.name}}</h3>
+
+                <div id="portfolio_filter_wrapper" class="gallery classic three_cols portfolio-content section content clearfix" data-columns="3">
+                    <div class="element grid classic3_cols" *ngFor="let eachPlace of selectedPlace?.placesToVisit">
+                        <div class="one_third gallery3 classic static filterable portfolio_type themeborder">
+
+                            <a class="tour_image">
+                                <img style="height: 250px;" [src]="eachPlace?.images[0].image" [alt]="eachPlace?.images[0].name" />
+
+                                <!-- <div class="tour_price "></div> -->
+                            </a>
+
+                            <div class="portfolio_info_wrapper" style="height: 200px;overflow: scroll;">
+                                <a class="tour_link"><h4> {{eachPlace.name}}</h4></a>
+                                <div class="tour_excerpt">
+                                    <p>{{eachPlace.description}}</p>
+                                </div>
+                                <br class="clear" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- End main content -->
+
+    </div>
+</div>
+<br class="clear" />
