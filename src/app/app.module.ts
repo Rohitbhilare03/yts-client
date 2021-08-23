@@ -12,6 +12,12 @@ import { FormComponent } from './modules/services/form/form.component';
 import { ServicesComponent } from './modules/services/services.component';
 import { DestinationComponent } from './modules/destination/destination.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import {MatInputModule} from '@angular/material/input';
+import {MatSelectModule} from '@angular/material/select';
+import {MatFormFieldModule} from '@angular/material/form-field';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
+import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 
 @NgModule({
   declarations: [
@@ -28,7 +34,14 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     FormsModule, 
     AppRoutingModule,
     HttpClientModule,
-    ReactiveFormsModule
+    MatSnackBarModule,
+    ReactiveFormsModule,
+    BrowserAnimationsModule,
+    MatSelectModule,
+    MatFormFieldModule,
+    MatInputModule,
+    MatProgressSpinnerModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]

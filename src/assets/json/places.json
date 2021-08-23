@@ -2299,7 +2299,7 @@
                         "images": [
                             {
                                 "name": "North Sikkim",
-                                "image": "./assets/img/Sikkim/North Sikkim.jpg"
+                                "image": "./assets/img/Sikkim/NorthSikkim.jpg"
                             },
                             {
                                 "name": "Gurudongmar Lake",
@@ -2317,7 +2317,7 @@
                         "images": [
                             {
                                 "name": "West Sikkim",
-                                "image": "./assets/img/Sikkim/West Sikkim.jpg"
+                                "image": "./assets/img/Sikkim/WestSikkim.jpg"
                             },
                             {
                                 "name": "Pelling",
@@ -2797,7 +2797,7 @@
     },
     {
         "name": "South",
-        "banner": "./assets/img/rajasthan/rj.jpg",
+        "banner": "./assets/img/rajasthan/lakepichola.jpg",
         "places": [
             {
                 "name": "Andhra Pradesh",
@@ -3283,7 +3283,7 @@
                             },
                             {
                                 "name": "Wayanad Wildlife Sanctuary",
-                                "image": "./assets/img/kerala/wayand.jpg"
+                                "image": "./assets/img/kerala/wayanad.jpg"
                             },
                             {
                                 "name": "Stay in a Treehouse",
@@ -3617,7 +3617,7 @@
     },
     {
         "name": "West",
-        "banner": "./assets/img/rajasthan/rj.jpg",
+        "banner": "./assets/img/Maharashtra/Maharashtra.jpg",
         "places": [
             {
                 "name": "Goa",
@@ -3878,7 +3878,7 @@
                 "description": "Maharashtra is the third largest state and second most populous state than in the country. Owing to its proximity to the Western Ghats, it is blessed with a picturesque backdrop of the mountains on one side and has the beautiful Konkan coastal belt on the other.",
                 "image": "./assets/img/Maharashtra/Maharashtra.jpg",
                 "largestCity": "Ajanta and Ellora Caves",
-                "officialLang": "Hindi",
+                "officialLang": "Marathi",
                 "NearestAirport": "Mumbai, Pune, Nagpur, Aurangabad",
                 "BestTime": "June- March",
                 "longDescription": " Maharashtra, the land of everything unlimited invites you into its widespread plethora of attractions. It is adorned by the beautiful Sahyadri ranges of the Western Ghats with high mountains that disappear into the morning mist, while the sprawling belt of the Konkan Coast mesmerises the eyes by its white beaches.",

@@ -3,212 +3,459 @@
     [
         {
             "name": "Goa",
-            "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2020/07/Goa.jpg",
-            "banner" : "https://www.swantour.com/blogs/wp-content/uploads/2017/10/about-goa.jpg",
+            "image": "./assets/img/Domestic/Goa.jpg",
+            "banner" : "./assets/img/Domestic/Goa2.jpg",
             "tagLine" : "Goa is a heady concoction of thrill and fun that is too hard to resist.",
             "Information" : "Goa is a heady concoction of thrill and fun that is too hard to resist. Its spectacular beaches, buzzing flea markets, adventurous water sports, dining options, pulsating clubs and pubs, all come together to create a vivacious ambiance.",
             "bestPlaces" : [
                 {
-                    "image" : "https://www.fabhotels.com/blog/wp-content/uploads/2019/02/rande-Island-For-Scuba-Diving.jpg" , 
+                    "image" : "./assets/img/Domestic/Grande Island (For Scuba Diving).jpg",
                     "name" : "Grande Island (For Scuba Diving)"
                 },
                 {
                     "name" : "Palolem Beach (For Kayaking)",
-                    "image" : "https://www.fabhotels.com/blog/wp-content/uploads/2019/02/Palolem-Beach-For-Kayaking.jpg"
+                    "image" : "./assets/img/Domestic/Palolem Beach (For Kayaking).jpg"
                 }
             ],
             "videos": [
                 {
                     "id": 1,
                     "name": "Goa Beaches",
-                    "thumbnail": "https://static.toiimg.com/photo/msid-55310626,width-96,height-65.cms",
-                    "videoUrl": "X9TBnP34JDA"
+                    "thumbnail": "./assets/img/goa/calangute.jpg",
+                    "videoUrl": "zkYrYcdQlBo?start=0&end=102&autoplay=1"
                 },
                 {
                     "id": 2,
                     "name": "Live Goa",
-                    "thumbnail": "",
-                    "videoUrl": "mtPhFC45vAE"
+                    "thumbnail": "./assets/img/goa/cruise.jpg",
+                    "videoUrl": "HbrK-O_yAyk?start=3&end=250&autoplay=1"
                 },
                 {
                     "id": 3,
                     "name": "Road Trip",
-                    "thumbnail": "",
-                    "videoUrl": "3sRvXC-suzY"
+                    "thumbnail": "./assets/img/Domestic/RoadTrip.jpg",
+                    "videoUrl": "3sRvXC-suzY?autoplay=1"
                 },
                 {
                     "id": 4,
                     "name": "Goa",
-                    "thumbnail": "",
-                    "videoUrl": "-Tgd8wVcmaw"
+                    "thumbnail": "./assets/img/goa/goa.jpg",
+                    "videoUrl": "-Tgd8wVcmaw?autoplay=1"
                 }
             ]
         },
         {
             "name": "North East",
-            "image": "https://www.travelescape.in/wp-content/uploads/2019/06/Dwaki-Meghalaya-800x533.jpg",
-            "banner" : "https://mapking.co.in/new/wp-content/uploads/2020/10/north-east-1536x610.jpg",
+            "image": "./assets/img/Domestic/NorthEast.jpg",
+            "banner" : "./assets/img/arunachal/arunachal.jpg",
             "tagLine" : "North East is nothing but Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland and Tripura are the original Seven Sisters",
             "Information" : "North-East India is one of the most fascinating places of India and of the world, located at the northeastern region of India, and consisting of 7 states, called collectively as 'the seven sisters'. Much of the region has been left unexplored till date, owning to the regions formidable terrain consisting of mountains, hills, rainforests, river, jungles and predators, and deficiency of infrastructure. The small sized region has one of the highest biodiversity density found anywhere in the world.",
             "bestPlaces" : [
                 {
-                    "image" : "https://images.thrillophilia.com/image/upload/s--wGxoDqR3--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/128/901/original/1529317809_shutterstock_484777531.jpg.jpg" , 
+                    "image" : "./assets/img/Domestic/Tsomgo Lake, Sikkim.jpg" , 
                     "name" : "Tsomgo Lake, Sikkim"
                 },
                 {
                     "name" : "Nohkalikai Falls, Meghalaya",
-                    "image" : "https://images.thrillophilia.com/image/upload/s--vpbDoXFn--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/128/894/original/1529316742_shutterstock_1086194036.jpg.jpg"
+                    "image" : "./assets/img/Domestic/Nohkalikai Falls, Meghalaya.jpg"
                 },
                 {
                     "name" : "Loktak Lake, Manipur",
-                    "image" : "https://images.thrillophilia.com/image/upload/s--kcX0xzNi--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/128/930/original/1529388517_shutterstock_730883467.jpg.jpg"
+                    "image" : "./assets/img/Domestic/Loktak Lake, Manipur.jpg"
                 },
                 {
                     "name" : "Siang River Rafting, Arunachal Pradesh",
-                    "image" : "https://images.thrillophilia.com/image/upload/s--_SKZCgPT--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/128/865/original/1529314168_3.jpg.jpg"
+                    "image" : "./assets/img/Domestic/Siang River Rafting, Arunachal Pradesh.jpg"
                 }
             ],
             "videos": [
                 {
                     "id": 1,
                     "name": "Gangtok-Sikkim",
-                    "thumbnail": "https://www.stayapart.in/gangtok/images/slider-001.jpg",
-                    "videoUrl": "qU44oDzUjhc"
+                    "thumbnail": "./assets/img/Sikkim/Gangtok.jpg",
+                    "videoUrl": "qU44oDzUjhc?autoplay=1"
                 },
                 {
                     "id": 2,
                     "name": "Sikkim",
-                    "thumbnail": "https://media.cntraveller.in/wp-content/uploads/2020/09/sikkim-travel-866x487.jpg",
-                    "videoUrl": "iXuiNsjh4Jk"
+                    "thumbnail": "./assets/img/Sikkim/Sikkim.jpg",
+                    "videoUrl": "iXuiNsjh4Jk?start=3&autoplay=1"
                 },
                 {
                     "id": 3,
                     "name": "Sikkim-Nature's Paradise",
-                    "thumbnail": "https://www.hikerwolf.com/wp-content/uploads/2020/04/sikkim-tourist-places-1280x800.jpg",
-                    "videoUrl": "-aXQDF5-Fk"
+                    "thumbnail": "./assets/img/Sikkim/NorthSikkim.jpg",
+                    "videoUrl": "g-aXQDF5-Fk?autoplay=1"
                 },
                 {
                     "id": 4,
                     "name": "Scenic Sikkim",
-                    "thumbnail": "https://sevendiary.com/wp-content/uploads/2013/06/Sikkim-hills.jpg",
-                    "videoUrl": "nUgjwZ_jq2g"
+                    "thumbnail": "./assets/img/Sikkim/WestSikkim.jpg",
+                    "videoUrl": "nUgjwZ_jq2g?autoplay=1"
                 },
                 {
                     "id": 5,
                     "name": "Guwahati",
-                    "thumbnail": "https://images.assettype.com/indynetwork/2020-12/cc8268a7-dfd5-497a-99c7-1fd45065788d/Ariel_view_of_the_Gauhati_High_Court_building_and_Digholi_Pukhuri_in_the_heart_of_Guwahati.jpg?w=1200&h=675",
-                    "videoUrl": "1EEHjpv4De4"
+                    "thumbnail": "./assets/img/Domestic/Guwahati.jpg",
+                    "videoUrl": "1EEHjpv4De4?autoplay=1"
                 },
                 {
                     "id": 6,
                     "name": "Tawang",
-                    "thumbnail": "https://images.cnbctv18.com/wp-content/uploads/2018/12/cover16-768x508.jpg",
-                    "videoUrl": "u5q6UDZ4_BM"
+                    "thumbnail": "./assets/img/arunachal/tawang.jpg",
+                    "videoUrl": "u5q6UDZ4_BM?autoplay=1"
                 },
                 {
                     "id": 7,
                     "name": "Dzukou valley",
-                    "thumbnail": "https://static2.tripoto.com/media/filter/nl/img/572953/TripDocument/1549968298_dzukou_valley.jpg",
-                    "videoUrl": "ymHE-gvFSkU"
+                    "thumbnail": "./assets/img/Domestic/DzukouValley.jpg",
+                    "videoUrl": "ymHE-gvFSkU?autoplay=1"
                 },
                 {
                     "id": 8,
                     "name": "Nagaland",
-                    "thumbnail": "https://d2r2ijn7njrktv.cloudfront.net/IL/uploads/2020/07/01141015/Nagaland-Photo-credit-picuki.com_-1068x1335.jpg",
-                    "videoUrl": "NvS_LtkQIBQ"
+                    "thumbnail": "./assets/img/Nagaland/Nagaland.jpg",
+                    "videoUrl": "NvS_LtkQIBQ?&autoplay=1"
                 },
                 {
                     "id": 9,
                     "name": "Majuli Island",
-                    "thumbnail": "https://alltravel-story.com/wp-content/uploads/2020/07/Bamboo-Bridge-at-Majuli-Island.jpg",
-                    "videoUrl": "6YoEv09e4H8"
+                    "thumbnail": "./assets/img/Domestic/Majuli.jpg",
+                    "videoUrl": "6YoEv09e4H8?autoplay=1"
                 },
                 {
                     "id": 10,
                     "name": "Tripura",
-                    "thumbnail": "https://www.deartravels.in/wp-content/uploads/2020/02/AGARTALA.jpg",
-                    "videoUrl": "pnyh2xhG6UI"
+                    "thumbnail": "./assets/img/Tripura/Tripura.jpg",
+                    "videoUrl": "pnyh2xhG6UI?start=14&autoplay=1"
                 }
             ]
         },
         {
             "name": "Kerala",
-            "image": "https://static.toiimg.com/thumb/76405061/kerala.jpg?width=1200&height=900",
-            "banner" : "https://blog.thomascook.in/wp-content/uploads/2020/08/Kerala-banner.jpg",
+            "image": "./assets/img/kerala/backwater.jpg",
+            "banner" : "./assets/img/Domestic/Kerala.jpg",
             "tagLine" : "Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline.",
             "Information" : "Kerala is South India's most serenely beautiful state. This slender coastal strip is defined by its layered landscape: almost 600km of glorious Arabian Sea coast and beaches; a languid network of glistening backwaters; and the spice- and tea-covered hills of the Western Ghats, dotted with fiercely protected wildlife reserves and cool hill stations such as Munnar",
             "bestPlaces" : [
                 {
-                    "image" : "https://images.thrillophilia.com/image/upload/s--ahDOfp4M--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/171/532/original/1568887378_shutterstock_1238920744.jpg.jpg" , 
-                    "name" : "Alleppey"
+                    "name" : "Alleppey",
+                    "image" : "./assets/img/Domestic/Alleppey.jpg"
                 },
                 {
                     "name" : "Wayanad",
-                    "image" : "https://images.thrillophilia.com/image/upload/s--WHwY6yvX--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/171/534/original/1568887641_shutterstock_1013834887.jpg.jpg"
+                    "image" : "./assets/img/kerala/edakkal.jpg"
                 },
                 {
                     "name" : "Cochin",
-                    "image" : "https://images.thrillophilia.com/image/upload/s--UZWLRgYd--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/171/535/original/1568887796_shutterstock_677104483.jpg.jpg"
+                    "image" : "./assets/img/kerala/palace.jpg"
                 },
                 {
                     "name" : "Munnar",
-                    "image" : "https://images.thrillophilia.com/image/upload/s--ZsKld1m1--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/171/533/original/1568887505_shutterstock_377921479.jpg.jpg"
+                    "image" : "./assets/img/kerala/top.jpg"
                 }
             ],
             "videos": [
                 {
                     "id": 1,
                     "name": "Best of Kerala",
-                    "thumbnail": "",
-                    "videoUrl": "yrWD-CBYct4"
+                    "thumbnail": "./assets/img/kerala/alappuzha.jpg",
+                    "videoUrl": "yrWD-CBYct4?autoplay=1"
                 },
                 {
                     "id": 2,
                     "name": "Munnar",
-                    "thumbnail": "",
-                    "videoUrl": "ZPv8Z_Uzodc"
+                    "thumbnail": "./assets/img/kerala/tatatea.jpg",
+                    "videoUrl": "ZPv8Z_Uzodc?autoplay=1"
                 },
                 {
                     "id": 3,
                     "name": "Allepey",
-                    "thumbnail": "",
-                    "videoUrl": "_qa_AJcDpaY"
+                    "thumbnail": "./assets/img/kerala/houseboat.jpg",
+                    "videoUrl": "_qa_AJcDpaY?autoplay=1"
                 },
                 {
                     "id": 4,
                     "name": "Roadtrip to Kerala",
-                    "thumbnail": "",
-                    "videoUrl": "Vt5CXsBhlG4"
+                    "thumbnail": "./assets/img/Domestic/Road.jpg",
+                    "videoUrl": "Vt5CXsBhlG4?autoplay=1"
+                }
+            ]
+        },
+        {
+            "name": "Kashmir",
+            "image": "./assets/img/Domestic/Kashmir/Kashmir.jpg",
+            "banner" : "./assets/img/Domestic/Kashmir/Kashmir2.jpg",
+            "tagLine" : "Paradise on the Earth.",
+            "Information" : "Kashmir is world famous for its scenic splendour, snow-capped mountains, plentiful wildlife, exquisite monuments, hospitable people and local handicrafts. Your trip to Jammu and Kashmir will be a memorable one as the state will not only appeal to you with its scenic beauty and snow-covered mountain ranges, but the adventure sports will take you to a different world.",
+            "bestPlaces" : [
+                {
+                    "name" : "Pahalgam",
+                    "image" : "./assets/img/Domestic/Kashmir/Pahalgam.jpg"
+                },
+                {
+                    "name" : "Sonamarg",
+                    "image" : "./assets/img/Domestic/Kashmir/Sonamarg.jpg"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Kashmir",
+                    "thumbnail": "./assets/img/Domestic/Kashmir/Kashmir3.jpg",
+                    "videoUrl": "QYnHwzMTwqo?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Dal Lake",
+                    "thumbnail": "./assets/img/Domestic/Kashmir/Dal.jpg",
+                    "videoUrl": "GArmKjlo0Jg?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Srinagar",
+                    "thumbnail": "./assets/img/Domestic/Kashmir/Srinagar.jpg",
+                    "videoUrl": "2YjGHkVbUw4?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Gulmarg",
+                    "thumbnail": "./assets/img/Domestic/Kashmir/Gulmarg.jpg",
+                    "videoUrl": "i56PEYXz40U?autoplay=1"
                 }
             ]
         },
         {
             "name": "Rajasthan",
-            "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/06/Top-festivals-and-fairs-of-Rajasthan-for-you-to-explore-Hero-Image.jpg",
+            "image": "./assets/img/rajasthan/jaipur.jpg",
+            "banner": "./assets/img/rajasthan/rajasthan.jpg",
+            "tagLine" : "The Incredible State of India",
+            "Information" : "Rajasthan is majestic and fascinating “Land of the Kings” with its magnificent forts & palaces. Rajasthan has more history than the entire country put together- it is the realm of erstwhile Maharajas and their lavish palaces and majestic forts. Golden-sand deserts, traditional handicrafts, authentic cuisine and awe-inspiring palaces all contribute to making Rajasthan an ideal vacation spot.",
+            "bestPlaces" : [
+                {
+                    "name" : "Hawa Mahal",
+                    "image" : "./assets/img/rajasthan/hawamahal.jpg"
+                },
+                {
+                    "name": "City Palace",
+                    "image": "./assets/img/rajasthan/citypalace.jpg"
+                },
+                {
+                    "name": "Rampuriya Haveli",
+                    "image": "./assets/img/rajasthan/rampuriya.jpg"
+                }
+            ],
             "videos": [
                 {
                     "id": 1,
-                    "name": "Best of Kerala",
-                    "thumbnail": "",
-                    "videoUrl": "yrWD-CBYct4"
+                    "name": "Jaipur: The Pink City",
+                    "thumbnail": "./assets/img/rajasthan/jaipur.jpg",
+                    "videoUrl": "IKGZEUAZ7pk?start=10&autoplay=1"
                 },
                 {
                     "id": 2,
-                    "name": "Munnar",
-                    "thumbnail": "",
-                    "videoUrl": "ZPv8Z_Uzodc"
+                    "name": "Udaipur: City of Lakes",
+                    "thumbnail": "./assets/img/rajasthan/lakepichola.jpg",
+                    "videoUrl": "OK0FuJbEAXQ?start=7&autoplay=1"
                 },
                 {
                     "id": 3,
-                    "name": "Allepey",
-                    "thumbnail": "",
-                    "videoUrl": "_qa_AJcDpaY"
+                    "name": "Mount Abu",
+                    "thumbnail": "./assets/img/rajasthan/toadrock.jpg",
+                    "videoUrl": "Y1vK8K0LNVo?start=21&autoplay=1"
                 },
                 {
                     "id": 4,
-                    "name": "Roadtrip to Kerala",
-                    "thumbnail": "",
-                    "videoUrl": "Vt5CXsBhlG4"
+                    "name": "Jaisalmer",
+                    "thumbnail": "./assets/img/rajasthan/jaisalmer.jpg",
+                    "videoUrl": "vFapg7KmvKw?start=7&autoplay=1"
+                }
+            ]
+        },
+        {
+            "name": "Amarnath Yatra",
+            "image": "./assets/img/Domestic/Amarnath/Amarnath.jpg",
+            "banner" : "./assets/img/Domestic/Amarnath/Amarnath2.jpg",
+            "tagLine" : "A heaven for pilgrims.",
+            "Information" : "One of the most important pilgrimage in India for the worshippers of Lord Shiva. The Amarnath cave has an enshrined Shivaling formed naturally with ice, which resembles Lord Shiva. Amarnath is visited by millions of tourists every year from all across the world for a challenging mountainous trek called 'Amarnath Yatra'. Legend has it that, this place is regarded to be the same cave where Lord Shiva revealed the secret of life and eternity to Goddess Parvati.",
+            "bestPlaces" : [
+                {
+                    "image" : "./assets/img/Domestic/Amarnath/Baltal.jpg" , 
+                    "name" : "Baltal"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Amarnath Trek",
+                    "thumbnail": "./assets/img/Domestic/Amarnath/Amarnath3.jpg",
+                    "videoUrl": "hna4p4x5Ilo?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Amarnath Aarti",
+                    "thumbnail": "./assets/img/Domestic/Amarnath/Amarnath4.jpg",
+                    "videoUrl": "aTnuhiR13Nk?autoplay=1"
+                }  
+            ]
+        },
+        {
+            "name": "Bada Char Dham",
+            "image": "./assets/img/Domestic/BadaChar/Bada.jpg",
+            "banner" : "./assets/img/Domestic/BadaChar/Bada2.jpg",
+            "tagLine" : "Four pilgrimage sites in India.",
+            "Information" : "It is believed that visiting the Char Dham helps achieve moksha (salvation). The four Dhams are Badrinath, Dwaraka, Puri and Rameswaram. It is believed that every Hindu should visit the Char Dhams during one's lifetime. The Char Dham as defined by Sri Adi Shankaracharya consists of four Hindu pilgrimage sites.",
+            "bestPlaces" : [
+                {
+                    "name": "Puri",
+                    "image": "./assets/img/Odisha/Puri.jpg"
+                },
+                {
+                    "name": "Rameshwaram Temple",
+                    "image": "./assets/img/Domestic/BadaChar/Rameshwaram.jpg"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Dwarka",
+                    "thumbnail": "./assets/img/gujarat/dwarka.jpg",
+                    "videoUrl": "ovbRmT5Pc2w?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Badrinath",
+                    "thumbnail": "./assets/img/Domestic/BadaChar/Badrinath.jpg",
+                    "videoUrl": "uR6v2WTFXfk?autoplay=1"
+                }
+            ]
+        },
+        {
+            "name": "Char Dham: Uttarakhand",
+            "image": "./assets/img/Domestic/CharDham/Kedarnath.jpg",
+            "banner": "./assets/img/Domestic/CharDham/CharDham.jpg",
+            "tagLine" : "Four Religious Places in Uttarakhand",
+            "Information" : "Char Dham in Uttarakhand is a collective term used for religous circuit covering Holy hindu pilgrimage centres of Badarinath, Kedarnath, Gangotri and Yamunotri. This is considered as most sacred religious places to be visited by Hindus, to get rid of their sins and pave path to ultimate goal of human life - the Moksha, ie redemption from cycle of birth & death in this world. Every Hindu is expected to perform the Yatra at least once in their life time.",
+            "bestPlaces" : [
+                {
+                    "name": "Rishikesh",
+                    "image": "./assets/img/Domestic/CharDham/Rishikesh.jpg"
+                } 
+            ],
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Badrinath",
+                    "thumbnail": "./assets/img/Domestic/BadaChar/Badrinath.jpg",
+                    "videoUrl": "uR6v2WTFXfk?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Kedarnath",
+                    "thumbnail": "./assets/img/Domestic/CharDham/Kedarnath.jpg",
+                    "videoUrl": "FNe1y09gzdk?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Gangotri",
+                    "thumbnail": "./assets/img/Domestic/CharDham/Gangotri.jpg",
+                    "videoUrl": "f5pTMd39aY4?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Yamunotri",
+                    "thumbnail": "./assets/img/Domestic/CharDham/Yamunotri.jpg",
+                    "videoUrl": "0NR-RU7HVm4?autoplay=1"
+                }
+
+            ]
+        },
+        {
+            "name": "Andaman",
+            "image": "./assets/img/Domestic/Andaman/Andaman.jpg",
+            "banner": "./assets/img/Domestic/Andaman/Andaman2.jpg",
+            "tagLine" : "Emerald, Blue and You",
+            "Information" : "The union territory of Andaman & Nicobar Islands comprises a total of 572 islands, only 37 of which are inhabited and a few are open to tourists. Replete with turquoise blue water beaches and a bit of history, Andaman & Nicobar Islands is a little slice of paradise tucked around 1,400 km away from the east coast of India. Port Blair, the capital has a major airport and seaport and is connected with the rest of the country and with various tourist islands via multiple daily ferries.",
+            "bestPlaces" : [
+                {
+                    "name" : "Neil Island",
+                    "image" : "./assets/img/Domestic/Andaman/Neil.jpg"
+                },
+                {
+                    "name" : "Scuba Diving in Andaman",
+                    "image" : "./assets/img/Domestic/Andaman/Scuba.jpg"
+                } 
+            ],
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Exploring Andaman",
+                    "thumbnail": "./assets/img/Domestic/Andaman/Exploring.jpg",
+                    "videoUrl": "YyzJE1muhOc?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Aerial View of Andaman",
+                    "thumbnail": "./assets/img/Domestic/Andaman/Aerial.jpg",
+                    "videoUrl": "t4KtjB3H-oI?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Life in Andaman",
+                    "thumbnail": "./assets/img/Domestic/Andaman/Life.jpg",
+                    "videoUrl": "PD439hZZ_MQ?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Andaman Island",
+                    "thumbnail": "./assets/img/Domestic/Andaman/Andaman3.jpg",
+                    "videoUrl": "RR_xTSWHjvo?&autoplay=1"
+                }
+            ]
+        },
+        {
+            "name": "Weekend Getaways from Delhi",
+            "image": "./assets/img/Domestic/Delhi/Delhi.jpg",
+            "banner": "./assets/img/Domestic/Delhi/Delhi2.jpg",
+            "tagLine" : "Taking road trips from Delhi",
+            "Information" : "There are plenty of destinations when looking for amazing weekend getaways from Delhi. Be it some outdoor adventure, an escape to the hills in summer, a weekend of safaris and camping or even a cultural visit, there are many places to visit near Delhi. What's great about these places is that they all cater to a multitude of trips - be it with friends, family, solo or for couples.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Agra",
+                    "thumbnail": "./assets/img/Domestic/Delhi/Taj.jpg",
+                    "videoUrl": "UXzYKrpKWso?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Varanasi",
+                    "thumbnail": "./assets/img/Domestic/Delhi/Varanasi.jpg",
+                    "videoUrl": "dlJb0u7tNL8?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Jaipur",
+                    "thumbnail": "./assets/img/Domestic/Delhi/Jaipur.jpg",
+                    "videoUrl": "rdKpptxCCYw?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Rishikesh",
+                    "thumbnail": "./assets/img/Domestic/CharDham/Rishikesh.jpg",
+                    "videoUrl": "ktntNfiM9WY?&autoplay=1"
+                },
+                {
+                    "id": 5,
+                    "name": "Manali",
+                    "thumbnail": "./assets/img/Domestic/Delhi/Manali.jpg",
+                    "videoUrl": "nkwLjnragtw?&autoplay=1"
+                },
+                {
+                    "id": 6,
+                    "name": "Jim Corbett National Park",
+                    "thumbnail": "./assets/img/Domestic/Delhi/Jim.jpg",
+                    "videoUrl": "NFjNiv3NHYA?&autoplay=1"
                 }
             ]
         }
@@ -216,256 +463,804 @@
     "International": [
         {                                                                                                              
             "name": "Bali",
-            "image": "https://deih43ym53wif.cloudfront.net/bali-indonesia-shutterstock_459773704_0dd494ecf7.jpeg",
+            "image": "./assets/img/International/Bali.jpg",
+            "banner":"./assets/img/International/Bali2.jpg",
+            "tagLine" : "Land of the gods",
+            "Information" : "Indonesia’s most famous island, is located to the west of Java in the Lesser Sunda Islands. It is world-renowned for its scenic rice terraces, fragrant cuisine, stunning beaches and a galore of culture and tradition. With its elaborate temples, endless coastline, some of the world's best coral reefs, waterfalls and retreats, Bali combines leisure and adventure impeccably.",
+            "bestPlaces" : [
+                {
+                    "name": "Penglipuran Village",
+                    "image": "./assets/img/International/Penglipuran.jpg"
+                },
+                {
+                    "name": "Tegalalang Rice Terrace",
+                    "image": "./assets/img/International/Tegalalang.jpg"
+                }
+            ],
             "videos": [
                 {
                     "id": 1,
                     "name": "Bali Cultural Places",
-                    "thumbnail": "",
-                    "videoUrl": "aJbhHJHwtnM"
+                    "thumbnail": "./assets/img/International/BaliCulture.jpg",
+                    "videoUrl": "aJbhHJHwtnM?autoplay=1&start=10"
                 },
                 {
                     "id": 2,
                     "name": "Bali",
-                    "thumbnail": "",
-                    "videoUrl": "DxZ9gsoDqb4"
+                    "thumbnail": "./assets/img/International/Bali3.jpg",
+                    "videoUrl": "DxZ9gsoDqb4?autoplay=1&start=13"
                 },
                 {
                     "id": 3,
                     "name": "Holiday Plan",
-                    "thumbnail": "",
-                    "videoUrl": "fYY5_jBygvo"
+                    "thumbnail": "./assets/img/International/BaliHoliday.jpg",
+                    "videoUrl": "fYY5_jBygvo?autoplay=1&start=14"
                 },
                 {
                     "id": 4,
                     "name": "Bali Guide",
-                    "thumbnail": "",
-                    "videoUrl": "w_AVw_qx1ck"
+                    "thumbnail": "./assets/img/International/BaliGuide.jpg",
+                    "videoUrl": "w_AVw_qx1ck?autoplay=1"
                 }
             ]
         },
         {
             "name": "Maldives",
-            "image": "https://qtxasset.com/Hotel%20Management-1508949476/mercuremaldiveskoodooresortmaldivesexterior.jpg?zbxIScOeOJEvMU8kcH1pm8g7UG9zZegb",
+            "image": "./assets/img/International/Maldives.jpg",
+            "banner":"./assets/img/International/Maldives2.jpg",
+            "tagLine" : "A Tropical Haven For Honeymooners",
+            "Information" : " A tropical haven of white sand beaches, the Maldives is located in the Indian Ocean south of Sri Lanka and is ideal for an adventure, honeymoon, or leisure holiday. The Maldives is an archipelago of 1,192 coral islands grouped into natural atolls. However, only 200 islands are inhabited. Each resort generally occupies an entire atoll.",
+            "bestPlaces" : [
+                {
+                    "name": "Diving in Maldives",
+                    "image": "./assets/img/International/Diving.jpg"
+                },
+                {
+                    "name": "Olhuveli Island",
+                    "image": "./assets/img/International/Olhuveli.jpg"
+                }
+            ],
             "videos": [
-                [
                     {
                         "id": 1,
-                        "name": "Adharan Club Rahanali",
-                        "thumbnail": "",
-                        "videoUrl": "oVc_XpvDs78"
+                        "name": "Adaaran Club Rannalhi",
+                        "thumbnail": "./assets/img/International/Adaaran.jpg",
+                        "videoUrl": "oVc_XpvDs78?autoplay=1"
                     },
                     {
                         "id": 2,
                         "name": "Underwater Restaurant",
-                        "thumbnail": "",
-                        "videoUrl": "yQ9Cj7HWV9I"
+                        "thumbnail": "./assets/img/International/Underwater.jpg",
+                        "videoUrl": "yQ9Cj7HWV9I?autoplay=1"
                     },
                     {
                         "id": 3,
                         "name": "Paradise Island",
-                        "thumbnail": "",
-                        "videoUrl": "o5udzJrE5h8"
+                        "thumbnail": "./assets/img/International/Paradise.jpg",
+                        "videoUrl": "o5udzJrE5h8?autoplay=1&start=8"
                     },
                     {
                         "id": 4,
                         "name": "Maldives",
-                        "thumbnail": "",
-                        "videoUrl": "n9orHWu8zQA"
+                        "thumbnail": "./assets/img/International/Maldives3.jpg",
+                        "videoUrl": "n9orHWu8zQA?autoplay=1&start=8"
                     }
-                ]
             ]
         },
         {
             "name": "Dubai",
-            "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxMTExYUFBQUFxYXGBkZGBgYFxwZGRgYGRgYGBYZGRgZHyoiGRwnHRYZIzQjKC0uMTExGSI2OzYwOiowMS4BCwsLDw4PHRERHS4nISgwMjUwMDAwMDAwODIwMjAyLjAwMDAyMDAuLjAwODAwMDAwMDAwMjMwLjAwMDgwMDAwMP/AABEIALcBEwMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgABB//EAEIQAAIBAwMCBAQDBgQEBAcAAAECEQADIQQSMQVBEyJRYQYycYFCkaEUI1KxwfAVYtHhgpKi8TNTY3IWJENzg7LS/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgMAAQQFBv/EAC8RAAICAQIFAgUEAgMAAAAAAAABAhEDEiEEEzFBURRhBSJxgZEyobHwI8HR4fH/2gAMAwEAAhEDEQA/AMoKkteeD6GvQjCtesRoLAKkEqtWNWq9FrAcGei3UvDr1XFXoKvWVywcW6kLdEBKmLdXrB0AwtVIWqLFuvRaq9ZWgGFqpCzRQtVIW6msmkHWzUhZolbdWraqtRKAxYqYs0YLNSFipqC0gi2amtijEsVatmprBcQJbFWLYo1bFWrYqtRNICunqYsUctmpC1UcglABFmp+FRmyvdgodQaiCC1UltVZcgZJAyBn1JgD8zVeq1YtqWIY7RJgGI75iBQ6y9BLwa9WxSzqfVP3d8YXapQw8XA5lfLGDEr3EZ9KY6XU7hZKyQ4k4P8A5e6M+5FTWTQXizXvg1ZpXLl8fK+0fZVP8yavFqq1laAM2aouCmb2DVP7HNVrCURb4U1cmnimCaSpnT1WsLSLfD9q8pj4FdVai9J83VPaphBVqirAtSyFIt1IWKvVKsVKlkBf2auFgjijlSrBaqWQCQGrlolbNS/ZpqaiUilFqwJVyab3q9LNRTKcUDLbqxbNEjT1Ylir5hWhAos1NbVGLYqxdPU5hWgCFurUt0WLB9K9CH+GqeQJQKEtVelirbdsUVbt1XMJpBFsVYtijVs1aunqcwmgAWzUvAo8aapDTVTyItQFr2KoaxTk6Wq30c0DyINQMz19Ctkkc7kifXcIOfTmkD9ddrbsbay9oKQZYCDcyAP/AHevatd8V2mt6fcOQ6dz/EJ4zWJ09mSA0R5BBEzKuzfMeIA7TQSyX0HY8a7oCXTrsICLDZwBJIBIJIyWhjmZyfWidFcdLCyXtgcEFl9VJB9MCvXs4XmCEEZgAkvwIAAVQPpTnoDH9ntkZgbYIkYyZjPeKvDL5nZeeK0qh58OEC23J85Hm5ICqoJwMwP+/NN0g0u6RpWZJX5Szfzifbjinml0W0ZOaqeWmxaxXuQTT169kCiiQozFB3bs8RS3mCWIriqXJq/evBf7AVK3cQcD7mqeYJYgDwSf4q6mv7T/AHFdQ88vlHyFW96uRzQIue5/IVIXT6j8op+oVpGKvVivS1bre35mpjUN6frVayaBqjVaj/SlKa8jt+v+tEW+pj3qnNl8tDVD9KuSl1rXKe9EJq1PeheRl8oOWrlUUCt5avt3l9f1qucTlMMS2KuS0KFt3x61emqT1oecXymEJY96tSzVCatPUVcmrXsy/mKHnhckIS1Vgs1Sup+lTGo+tC84SwFy6YVYmlFVJfA9amutX1/PH86F5w+QEJYirlSqF1q1YusU0PqC+QXqBXsD1qk6te8/lUl1C+1C+IJyvYsNqq3se8V7+0CvDqR60LzotY34EfxxbI0pP+dP/wBhWJtWDA7SZGcYsHmAMTPPoK2/xxfU6RxPdf5+1YwWsMI5DD3PktJwR9afjyao2Wo0BdRETxMtHHK2go5Pq5pr8NCbTAQNt4xgHlwBz9P0oc7fEM7Px/NxLPA47nZA94r34Zvx4xJHKNK4HCt3Pqf0o45KkTJjuBrun3Li21CgAebM/wCY+pq5dU0/N+tVaHV2xaSUJMcyBzn2rhetD8Fz/mH+tZpZHbCjBUgq1rVJgmaJa0rjgfmKWftVkfhcflQuo1K/hZqXqbYelUO/2AD1+wFUsqj/AHEUg/xG6OCfz/3r09Zufiz9wf51HqKSQ+/ah/Ev511I/wDFm9B+n+ldVbhbHzRb9TGooQsAu+Rt/i3CPzmuVwRIKnB4de31PtXVZzkw4agUPqNdtuAAAyBPI/FEj86HOqgTE54VlbjJODQ3UcuhGQB2OcGSPc+1FGFvckp0h414D1rwagVHrLRevNBI8V+BJEsYoa26lQwIzHJA5EjmhlBptFxnaDhfH9mrU1A9fzg/zpdbuL/EvtyZ57gf3NSLACZH2n/SgcGGpDQalfb+X8q46lfU/nSxLikwWA+v+nNX+GN4STJEg7Wjv3iBx39qFxrqGpX2GFvWgcMw+9EJ1T1afqKVDT8w6mDBiTBicwPQzUjpm5kR9G/0pdRfcK5LsNv8aPrXf4vPp+VKbthl5j84/U4qb2CFmV3bSQsjcY9ufyq+VHyRzl4Ga9Q/zRVg6m/8Z/5jWd0+tVxuyo3BfNjMTOJx2+tdqddtA2qXJjHETnJPtP5UfJQLyvwaQdVcfjb/AJpoi119hyZ+9YrU37rXEMFbW4ZnzHEkET/cGjG1fEK+eMDOCT39FNU+Hi0Dz2ma0fEHsfzq0fEA9BWOTUzwGkcgqVIgkGQfcEfY+lWeK3oar0aL9WbBviM/xEf371D/AOIj/F/f2rIG83oa88ZvQ1Xo0X6s1o68ezfz/wBa5fiB/wCNv7+tZQXG9DUw7ehqejiT1bNB1zrLPp3Un84qGnueaQR8xj73baj8X+Uikeocm0QQcgfzFO9CxJBzyD9t91jz/wCxf75vlrGqDhNztlV6YGeQpnn8N65J82e398VaZ9j3s42gdwBtJU5kfwetHbBsgzOwgYJO7w7KDt6uR9z6YS60hTdYfiQnj/1Hfnb/AOr/AHk0uFaxk70Mc/4kAF/9o/kPeu/xkDt+tJL141Q10+9aXwyZjXEUaE9fPYVU/XSewrPtcPvUTcPvVelj4L9Sx8ett6L+VRbrTH0/KkXifWvRd+tX6aPgnqH5Hf8Ai7+tdSXxK6r9PHwTnvyD2OkW7loWw5kEXAsMVMljtLAYnMGoOFVAiL4REiDmDO4kGJgj37/kX025t3EAbhZtkA9539u/51Hq+mAJB3bwQAABB8qgkkmR9Ipt7gVsA29ZbAFt1Qlj8+3zZPMgcjME+lW6R7K6hbboXAQkDuGOROBgR/tVF+2QVGwy3BzxggRwe+ffmiur6Yrq9iltuApB5ncJ3RnAmhtXT7l719yXQ9MXydp8zKSAciff3zVd7SMUN0DzMEcsoAIJHtxn09aO6Vq7VqBcuGd2+NpnnAhucd6no9KEWzZvKVLL+IC3wILGT8oGd0Hv6UmeShqxptCTWRadlk7txjgCIBGZ9aa6PRu5BW6p+iHH6AGKnduLbuAHLOSEiwu4mAPLAZjgjMjmhus6pyhHiHcNgkk4LESDMjgntU1SmlW3v1CSjBvVv7XQcNIyKXL3mVVJMW4H08zDzScDkzis+Bc25d4MY3HkKP6NTJOqXG09nddZhgFSOLcHeZ9SQMd4qg9bVXa2LKmYBfcd0EdsQOfSeKkIypuW7smWcU0o9K/kaNpbd3zMnmKkyQIPIH8v0oHqFnwGlGYHyZBI7vIxzJA/KnF6/iFVmj+DIHmkSB2zmaB671V1OzwlKhoViZng+VgGwCSO1Lheq30DyNKHuRdrj3Vm52U8EDaZMAY7EmccTMiaq0WpvohG94Jg4mZ5yZjB4n1rX/DWmd0U3UtBogSN42kbhJMSYPp+dIG1Bssbbg3na4CSXZYYKwyVJ3iCcYyZ9iTyLokn0BjC95NoQLpM3DuIPAg+o4GftRt1ck+oGcyCs+8ce1Xde681u+627dtUuLbLg2w4MfKTvnPfn70NZ1RuXNpVAQpfyiIkmIyY8pn/AIvanPVKOp7bCU4qeleaDraQGI7CQY75mPTmqeo2iTJ4W0XaBxuNsSBInJ49jVlhoDehWP79Kj1fUC26HaGHhgEMJBmBmPQwftScduVDsqSjZHo4doVdrCSWYgBo8oHBJPJwSf50yUpBggwJMcY9+KB0msG24yrt8qkbT8u5wO8/pXmodksXCDIWfTO0g4gA0/V81GXRaTLB1Qi2RtUhmPscRBnPHp7n1qy1ckMSB5Y/Mqp5Pu0Ure3cBVnWXJYoEusu4FQG80iCJzPING9NvBLZUkKfLAJnIMMN2QwBWKmuy3BLsWpqsnyrAIDHcMTEY5PI/Opai+UdQADwTInv74+xq7T2zcFxiw8rqIwCP/DOABxj+VJtbduG+wXbJk+YwIRwoA7AnGTRaktwIx1OhlqeoG87KVEmfN/EVI7ep/3rRaDX2lQBg4AtwVQrBbYXYgb4JKkd/T61iulaMC8GCmN0Ez/GSrLxJz3B/lWl0B8iiCSVA75MWE/qc/2M+SpddzXjjp9h1pwgUkiSXaMDADgYgj/ywft9qzmsC7UQDO0K0AwW22jz9COw449XTXD4TMORvMyRjbffgsAMkcevaMKeoagA7QEP7xhu/F5TcWFO7n91nH4T9s8I/NfuaJXooGuLVRSiroqBFdLUcmgc2qibNEsI7H8qEPUrIMFgD6EEfzFTUyUemzXnhVclxW+VlP0NTC1NRdA/hV1ERXVNRKI6TSxa8UqM6WztnswVyYJyDkVd1e7Zt7bzM5LEjw7YPiEkCDMeX9eaY279u0R57YQxFtULwAfLsAYQOP6cZzfxhq915XClCAhAIkkk5Zk+WSex/WufHK8rpJ15/wBHQnj5a3YZofiEW2IV2ay21jae5loDGDstyDOzv+E+uCNDriS5tbLQnDOm5jJJITBJE+pHFZkaoi7ubcROQAqyPYAbQSPaKYW9WB5bV18t5oEhQSYFsN3HmJMDJpvLjtaE65N7MYdR6lcclCgTaCXIUbsKSSYIIkCcfacVe2oSPMHuuwtyiDaq7RCAsZ4BjA+47+dX1HieMATs3XwuGHl2kKYfMwe/r6Uu1thhaFxLrWzsNxgAYIUYBgj09+aJ4oNLagllnFutxn1DqCjwmbTXSttHPl3EISwUmcEELbUyWmGikvxLqLZ8Q2k27GUcyDsYCRkyNwHPYirtHo78k3GJBR8eIWnchC+Qr7Hv/rSUL+6cnHA+g3LJHvk4NHCMYql0EzlOctUu4cG3WVYoAGfLbiSQSwjmI5zHahE8wEsuSfwjcOI822Z+9ONJ01bmnXcpV1ncFD+U7m8oVTA9Yqdr4YRQ3ibWcxtQExuzAY9gY7EcHNGnGMepGpSkqTLek9KvWrdwojy4JXYHBnJEOoHHMe1Q+IbDJp0JLBmIV98Fgxbce27nOfpXvxDZYqmyGPd9plm82YcYXOORERV3UFuDT6cbfN5eARJByfKuRwYHryKzKUpK30s0yjGL0rrQX1zqFkJZ/Z9RdWdovRbdSihQGInDHkwD6ek0F1LW2bl1DYZyggTdEOdqBSTkySwJmZyaA6jIDAqZDnO6RthYA7RJ/WvLMu4RPNkEBEYnzSp4XmQPaATQxjGPQjk+7BuqX1LhoLbUUEcbm2yP+HIB9YPrRnR9KttnV2BvOSPKpYw2SBMCfpNL+oIi3LgY4XYDj/Ks9xkHHv7U70emI1SsVWGc4aCD5WxEkkY5xWjLkvHv0SM+PH/ktdW1+54bZWy5nzBYJ2kbWA7gjBHv/WkZuXGUm6+4nYQRkgEq0CODJFa/4kuLasjaWAug4ZiwG0hSgY5iSIBJxWT6PYa3cO8EclcBxhCeDgiYrPwstUXJmvioOMlEbb9MLLtbusQ621CsJKFW3GT2XBzxMetU9TEWLh9bZIwMif8AaquqWUdg4VJuIS21cFhcde8/w1d1QRprmI/dqBAIEBB+ua0Rpy2/tIytvTuUaW8z3FUkgKXJBGSCPKQfTGPv9KYXNGVs+KoG1WYeaDlzIx3GT2pPtFkC4zx4hcqAM+VszAnnieZEc08s60XNIyKslzuBYwSF3SI9Z9+KU7W66bfzuN26P3/g80jT4gAAm8vHIO6yvLYAoJitrU+ZyQsywIBzeWDIgT9Knprh3XFAWfFmZPa5ZEf70u6kn7xuZCLwCTi4CMDPanS+aLQjGtMrC+lNLhgrAG6pz3G8GT/fatLa1IMABVAZVKrxK3XPBJzFoz7+nbKdG6gouJZKkMCRkDkAk95jHpWlQHzEdmuH/oZl7jveX++FNbGiL3CbdxvD8OcEAdsE2rSfw4xdqjXaK4wY/KB+8ypJafG8oIyD5wc4HtRV1Ru//JECMjxrQJgnt4Ufalmt4UD+K2ZxwPA4hY/F+nPoqn2HfU67yZkfaoAirtX8VWGhTvVjOCu1QQdp8+6CJBzHb1xVq+YblKH/AIkJ+vsK1RkmrOe4O6W/0BtxHaoXIOGAI9wDV3i2iY5PfBieeRirRpgFD7W2MSAZkEj5gJ9JGKIHcRazS6YEbgqHttbafyHP5UDc1VpPk1L/AEKlwPsAK0mq6Xprom5zxIIDj7ggxPakvUPhfTzK37gBBIZrJcY7SpBB+voaNJgugT/Gj/5yH623/wD4rqrb4dtdtSPvbcfptxXVel+AdRsv2zRW13G8jlfLsswMmSAzkZ/I/WkHWCt7UEBAhdLe0G7tVeYl2x+GZJ7iKjor267tCgbne12EfOm7A9v1obrxH7RtHmKqqwYyVZuxweeDWRY6tpv7/wDRueVvZpFPRbU3B4jKFgl2cnbxzuycn681o+k/GGntoLK2LbxMOzqhPm3D5F47R6e9ZHSMy2jcGyRAIO3v3CHkCewxUOn6XyuQpkAhTAORsnMRMHie9MaUlTExbi7RrL2uXU3Cq+FZuQxGx5BAIE5mCQqj78E5q1tCTb2A23HhuJVwwPmaVEgTtmOPWlfTtTctBFu2kGQT5F3CWGG/FPykexOeYc6rW6eXW0zKoRQiMrAsD3Vm2qy5PfjInkpnNrotvyOgk/1dS/ttjlQJEA/iU52ie/8AvyU1qxctQ1vTXLm0ZZ2KiSAw8kCfTEDGa0mpCWwjC+ruNoCq4hSsjczT5exnPPGKCuW92d/lABYncd8k7VBOSDGT6TS4ycunT6Mfop1TKtBcum1cZr4Rrg8qWyp2EIw2lQJfLA5/hI70l0vRNaFAe23mdGCl12+XdIKhoMyO3YVqB0k+H41ojw9rWx53INzEsFOMeYT6/Sh73wzfQ2S19SLoDRt+WTEe8TWnBh1x1Pa+1eDBxfHY8M9HWlu78lzaJjtV2A2gAsfYAd8dqX/ECAJbURPmMtgkBj2PHI49RTrrvTrls3EdxctW13YUZ4ALSQMST/w1mOp65WQJCCFUjyruhiCQMlmAOJJGADHFLdqelbrbsacU1kx8xqnbXWxUltvBDGInn1OwGhNVdZHIDMJXO1yARLYJBk4J/M031OpteCdpg7vKF49RALGBxmcR+a4aQXHJ2gqoyQHPc7hOTM/zMYq4O3uiZIpKkwe+48Pb+Im2ZJPGxZE7o5jkduRTfTXWt6gXDAKN6zugNJnIIxBPFKL9xg0JtI3r2Vl7AfNIIieZpp03WKl5XdmCIfNAkxDQFEGfmpk+j2vZ7CYfqW9brc05vWtRbCXAm0sGKsW5I5Vh8gyMHHv3oXq2jFu1cZdwZVYhoKkSwgqRuVonlSD/AFssajT3wxTUFY7MrA/9LCPyqPVbezS3C12y+6AvIfmYB74kwe30rmxqLSi2t1s0zrznqg3JJ7dU/wCRVr9E6+GpUSbXrIG69eMyJHET3FFdaY3LAtgKCLUYJzCjLTwTB7d6Wa6+yoNrcWC0rJgjUakjPaCBRWrut4u0sSDY3f8AEIGT+ddTho7uT7J/ucjI+y8iewzXXIJQhGIAKdpYQY2zzzk45rR6Ii2gZFUvPYqhHaVLHB+84rK9S0zArtDMPMx2iY3Afwicx/OtB8NXitkkiIER6T7MP5/9xhV15Vf+hybr6Mb7LaqYU73LEkziSJiGjlf6/VB1jSsCzqwBItqJMZD7uTj25zxR/UdQyW2KmXZCylUVJMQpULh+2aIuaRWtqbkMPITkjOYMrnmibUMbrfvtugowuVCDp2kVbguEnfnkjMj8+/61runWyzGeCUgj/P4Cnt/6b9/9sdodwvuSpCS4B27d2QFPOcA5rb9DtyqsD5doP/J43uP4l/KkzdQsZjVyaL9Y3lDCciTzny6i5jHsP75V9QtjzEwdp7/5Xsgctz+7kfWn2v6dKBQF8oYLP/2hZ9P85GB3+xW6/RvDmJ+YgAwPnvsOBmQF+/r3RqH6bMT8RWCl9twgCQF3As0+ZWAIwvmjvEUNp9Zd8PbbS4uZ3O24ZAEAbAB9efU1ueuarT3SUcMHSV3C084x8wEMPrWY1HS8nYWYdpQg/wAhW7HiuC1HLytanXkr6b1TUWmDMLLR+EsucY+vER7030vxKrwt7TafHHhb0I4yCX5x7Uobo79p/I1IdBucyPpn/SieHG+37lRySj3NHqNXpy29LhBcsWFyZkmf/EOCfY/nVia7bmGjkkDco+pEisv/AIS47v8AZCRV1m29v5RekegaPfEUcUkqKc7dj7/EUPdf+Uf6V7SLxLnfd9w8/fy17R0gbKejTc1C+Fuc+L4nHCkuzcTgCc8VDrujA1IDXFHiAEtyE3EzIMcfkeQah0vSqwRoCuzS9xiCETGVzBYAkx2jJyKsTpJvOCouOBIL4gkOQsCS2ffaJxWScoxXU1whKXYUpph4bScAeXzBQ0HjMzI7A+kE97en+a26AKTtaCAS5lVwYPAPYCaY9Xsfs1kqt20xPkZNu5oHOSCUIJOJHfnikmiv4uAzBttxnOwRz7gfYmhjLWrXQqUVCVM1Wv14S88rvwqhSuF3C3D7gCWgzg/1NF6i1ct2zsKLuVWBuXPPBIIZVVSAD7x9BSrVI5uE7W8ObZdsx5fDOe2J5n8VM9Br3uJb2kAeHc22ndoB33AJLyxEAQOB6iBSm4xSbVmrDqcpRj39rPetaNha8Q3rBZjtYorbjhWkkETmM+tDaS+vg3UNy6zHwwg3EL8x3ggHzDbiGJoK888/xN3xyeKK0tsSK6PD4FNb+bODxvxLIm0ttq2NZZ1pe2FgBREACAIULgD6V17UGFmTtEADJ9aD0zgCqOpF3UqhUE/xTEfUZB966Lx6YfKunQ8rFvLn/wAkmk3u/Y7rvWAyFNoZ7jBWkH92ggFmb8PJ7TWbsdND3Tstb1QhGZd/cEM0ggDzARiIJmeabWNDfNi8S1lQm2Z3MzBiRCldkAQBGRGKX9EvsxvKz20KWblxf3SkM20mOcEwJNcfJCaUpVTPd8Pn4fRGEZWkl/fuQ0/Rg2xDbncUHlZ5E23ZsFjwVUD6Hnsr12lNsgKAEdULqXGS43KoBaSBImB9ab6K/dvXrCs9twynbIfyRbZioUXImF2g/wCaoWNYrurib9uR5Ny4EKACrLIIgD6CssXkt99v+TXNYWlWzvuIr9t1CKyETsKyAJA7iTMeU+2Kfr09W2ljaZ7lsOtpH+RSGK+PI8omJE7o55EuOjatLzurB7CMQ0lwCsCAUDYUxPsYHEUP1K5p0ueFp7XhLuQu+QrKp8zbSWDYPKkCQcVccrb+bZoCWCum6ZWlhdotW1i3b+YpuG65A8RpGY7D79qI19m3atNuU7jgeKGLcru2BznEHFXa7QO6lbF9xLLC7mKEhSwiYZZzAx3xWd1COquL63RcWQfMSrEkbX804GVYTIlT605Zsc4tLr47i3DLB20q89QnqypszGNOSCikg/vNTE7tsCeTBzPPJYnQqEa4XBn5tgUsimCOT5okggQfYYalPU7NwIVO5T+z5WYmb2oIEfiwa0XTSlu4bRLxdVXRzJ8FyCWER5lkGRxDe9ZpZJ41cHfn6D8eJTbTQsudDfYWW5YckCNlxAyrnDq5ALEGcMPvFQ0+mNtSlyUVoZAxBJBEqZH4STVGo1ItXbknb83hlJKEHcPK3cSI9Y9aEvahSqvdFy4zHbDORtAESA2VkGcUcJ7qQvlz3Taf2pmp0mp07taLWpZnFs7lFtLiiQxMxtJ8vnE/KJ5M39bQ2mYL8zCQifMO2MEXV27vlPee1Y8apPCQIoUMJIBUsBJCg7gSZj07AA4q3pvUhabw7tlrqHIO/K5guCiqZHoe4BHrQTi93H8D4y6J/kb30sNaVrdw7ifMrxI8pOIUcwIzH6Uz+HLUqoBIA3qTmBuNkidpE4DfnyKS6jwXLPbW8stB8RQDIByRO7Oe33pl8PXGt+YYKtu4nm1dB5B5harVcelexejTLrZo3ub4GQCVPf8AFewJnEhftQOvF1rW9UaPDksBKwLd07iZONzqJ5zmirMqQRjaQOOVVGJ/D7mfSgursxVy8k7G3FZzFhQxAVRuy3Ef0hD60OTMp8T9FuC410MSLh3AcHOe5g/akFzTEYIMjkHB/WvoaX2RZu23KFQguMj7JAPlBIAYAzxPHNBanptjUAhCPKJKk4yQJU4Iyfb70/HnXSS+/YzZeAU7nB37GGFkn0r1NNkD1MYrRr8PDcAGRQcbrm5xPaNhUH9D7U5s/CptAGLN4HmAbZHptYlsfritcIa1caObPFy3U1RhF05AkAx6/wDailtMFklgPcsMc88D719F0XwZp/muC7P8PjOVjsMbQfypro/hzR28rp7M+pQE/mc0fIXdibj2R8sXQ6j+G5+f+9dX1LUfD2mdix0tkk9yAJ/6a6i5MfLLs+Pa7XpvIQFx3DwFngklWO/9OfamHTOqNeZENwoUIjw12LGNsbSAGGY8pwOal8QdF06C34DOVMHawUvkZ3RcBI3CMKoEnNCfsJCDezSg8tpVAJ3N38NiT/f3zSjGlZtx5JttpBN2wjWpuM9wlg10nbKqJA2lhuEk8gmY+lDtp7SqohVXaYuHEkxIIPJjGeK0B+Fr9tfG8NbNvbDI4BbEkkW+ywoMkgy3eAARpbWntafeiOLsN57gDuhEwyhjstgnb5sHBmQYpXPjHaLs0R4aUlq7BPRbPiWQrWhbJJW7eMeIynayhFbIO3b5oiGBE0pvahbd1hdtBjBCopLRE7VDkAzt/JZJNTs9S1GqYXIQIkk3XP7tSQQ5DmN5+Y7V/Nap1dg2i1x76veO5Nh8twWyCAypwqERgevJosXDuc6lsvuXk4xYMbcN336dBcgkyeTn2k5Me1MdLcpXvq+1er0GOKieQzRc92aG3exNc92aV6XV7fQjuPWj12vlDB7qf6HvT0zmyw6WE6fUWwrLcUkN3U5H24NJeodD37m091XJBGw+V89vf64FF3XIwcH3pJ1R+4kEcEVnz404tm7g5SjJUJ2F7Tuu9XRlOJ/p2Iz2pt0LTI6yyqczkfpNS0PxDcA2XAl5DyLgDfme/wB5p5pzpSh2K9pvSZX9f9qxcPBKVtHS4zNLQl0Zkf202dRJl0V5Ntmbawn5SJ4pv0O+jC4iM6TZJCbt6XLu9fnV5gbS3EH3pJ1XTnxD9aZ/Di+YE1XJjObTWwyfESx4lNPdI1Pw51BrFq4PDIOTB86MCVBVLg8yzIwwPJgmDUtN16xcAJV4zO9AdkOoZd/DgeJP0H52WfFVlNlVcsQDbY7Q0nEOPlYHIP1+oSfE2u8O8ytau23UsGhEbJ+bbcVoM5zHBI9q5/EcFLHmairT3u+h2PhnxPHmwJ5JJNbNUaP4fvgli7eDBkF0LbxuxtgkACSeexqvrfTb24Xrd3yhAAW2gmPYggCDGO31pa+oNwWvHLKnhq1tLd1gxDMdxvMI8xAHlHE15q+maZ9PaHhDxF37nJLM0uSskzwMUvguAnnyNxaXna1+Q+M+K4uHXR79Oz/gH6dprK238fWJu7KxBC+aSQBmDMfeo9MTR3LdwFLt02kJLWre4Im4tMsMZJjPrS7QakWLepsqo/8AmFVZjACtux/famXw5c8K3dQHF1QrY7TNbV8Mm5SV91Xb/RjyfF4xim0qp9rfsR+DobUC3ZsFy8gG6wtrABOSu4x7QfpUfHvLqB4dm3bl9p8zXVXzQTECR3plo1FohlZQR32k0s6l5jm4P+r+UV0l8MxrVJ91RzofGpzpLaneyGGu1rJqbwuG1dCFRbZbYthpBJJWScfXmiehatbl0qIyokMYUbbiGQfoTj1+orMuOTu3EsJkR2ajvhzVjxkRhIi4oZYDwVLRP4s8TwTzGBxc/D8vZdkdrBxfNim+7fU3weAyh7c7Xz8wl2gP5fmETn0J9ao61dw+0Iw23SNqEYhF2+Yj1j0MVG66mCgYKXRRuIOFKycAgd6E6iwKnIyt3+GRL4jEcD9awSXzI1axl1DW3PC09s2y1tbkswBMRMTAxk1mOtrbGoIVVTgjbgT61pdB8QW7QKHIiCsTwMiBxWW12hFy8XQ7FORIn7RIitEOF0ty9vPUxTzzSXL6t/ivP1GCdQBt7LgWf4okEcZiOfX854om3Ye2A9lwyGfJuB45j0Hvxn8NKUNgArcOoXtvCIUD8Dcskx9CJrzpml2uro3HbmPUR6e3vilfNjblG1R08b9RBRyJavqaXTdYBB3SpXlSMj7f3PaasvddsoYZjJEgBSQew8wEAz2oPUaU3be7yC4m4z8vl5we2CRnB7gTNIm3B5DuDwVMG2xA42Pi2/GAROIMRO7h+MjkVPqc/iPh3Lla6Gr/AMctfxH8jXVkP/ilE8r2H3DB/d966tep+DFyF5MsNQz3Nrh282YIEiYJWME85zOO01q9BebTWTcSxbUmSrEglQuFLu+REnBJnOO9ZzTae6Ax2soSSWYF9gWCxKIIQQD35Aqer16hkLH9pIgsHLbANoJ2FCFUz/lPBz2rDkwSyUn07nSx5seO3W/YJPUr91CqSwZySFLbCzEz5mnd6EIOIFB3tZZdP311nZd+20AypIiF2xKGS3mYn6eoWpNzU3zKhXIhFjaAsEqonLSJEmSa9taC0kC7d8NwQcpugQNw8McgEMJJhsdqdjxRj2Ms885XXT+9i+5qLuobZbthUACBAZESSvzHaGMfhA4pnpVTTzvCloC+GykPiA+2DEfMJPIAIgUJq+uWApTS2nTcADcZipkKVJVQfKSD6/nXnTNH4k+ZFgbiWaCROSByxzJrbjWz3pHPyydra2M7nWUfTiwbMlTKPMeGOW9dwbv/ALClwFMNZ4Fm0vHiN+IHcWTcQSLZEW225807Tt5k0vuam2w8u8NJldsKBMqZJ5iRjGBxMU6GRJ1G68mfNik1qbV10ODVYl0iht1cbtaNRjcLGa9TaIaHHown8j2oPWXbL8q6H/Kdw/I5/WhjdmqXal5JbBQxqL2IeGoOCSPUiP0o1X8tCJUncxSIbDsi1UB6xpP9mmvQSZpLdviaadJ1InE0WJrWFni+VVGxs3cUn+I7u8Gcn1NXpfxSvquorTm/SzkcNjayWDNrWO0SewxjA4p0mp8kVmLN6TTjxTtoPh8VCLo6XGXka1FN5Rupp0u1IpMboLU56Y8RWqMrZl4hNQDb1mBSfV8+v0p1qT5aTajp16/bum0FIQAvLAeWcc88Hv6UHE51hxuTYHAY3lnRK7pAq29zL+8LbYIMbJVt3pBYDPM+9C6EtZ1CFhEXFx/lLRuB74P86q1N/wAMKdqupEMD6Tkgngz39qmmoVgA8tbM7HB8yRz9I7iK4jvInN72elxxWNaV2NedcF2yRKgZ9WiDz9zz2FBXeqKywHUShEtcjJz3mBQml0QczBdiCwNyWUBjPlCiDkDv2pno+j3T2CD6KsfnWWWPHD9TNKnJ9AbW3ru+EVnWeeIH5ZH3mgbvUHAhgB9B/U5FN+paS2tuWuSyiQF5ZhwMczHA+1C6UtdUbwGWRk4aD6E+nuJp+OcWttxck0wbQ6+0+zeSNzbGtncUDzKkssblbEbv0g0y1XTv2f8AfWmm2T5re4EpmJTMkSeDnPfilWv6PtabZVgeVwdyyCQR3Xj9K80V+6MG4xts4BLrv8OeA2/8I7xIgExRZI2thmLI1IaXuqOkMCCGGRGCpx+vp/WiNNY8Zh5llgdkkZQcW7gGTyIfHOIyKXm8q7gxQpIhlVwBIEuQw8oLYIkwYPuTunsACpMEHDQDtP8AoYzXGzQ5L1RWx3MM+ctMupK9pLykhXtQOPEVS8dpO0yPTPEccV1HXGYHyFguICnAxmJI7z/vXVXrZ/1E9DD3/J821Nq4SWZGEmYiBkgghfSWH51I2haK3LgVkxvtsjMZM+UqpEcEglhMcYIqXUOoXB+7W4SgiGDbmKx5ZfkYPAj3mqW1964i6drp8MsvlJG3dMBmPtP0xPNejlqcTyi0p92w7X9ZsBFu2233maLttraw9uD87bcmQMEnniBWf12qF269zYqbiTtXgfnWj13whsVUN1GuEHYLQncxIwzXCgUe+eDx3X6cHSyl4ErcGUWRuCsQrFvxJIkDMz9aT0HO312PNBYu2DbvgWnHzQSrKAR+MnCtBkcwYNO9d1PT3w5s+HZZIZN4MCAA3ggDBZjxGI9OFPU9TYK2vAe4NoINqDtTg7gSYcsSZx9hQieuP5fypkY6uoqWRR2SCv212QKwtmGLbhbAckwIZx2wMCK7TWXuNtRWZjwqiTjnAqOi0r3nFu2NzGSBIGACTliBwCaZdE0rG54O1rV7cCt4EDbII2Eny7G4mDyeRinOagthChLJLc80uhuq1txZF8NtIUE7fNIAZ1ja4iY9vzs6pc04uFNr2zGW/CDBLQomVkAAg5kfWnfULTadVu35Ny0JdA62DcHmCm3G4uRuzkDgDgg5PqnWLuoK79sJIWAN23EB3EbyAAOAOYApcZSlK7HTxwhGq/JW7gnHHaeY7TXlUAxRnRrFu7dC3Ltu2vJLmAfRR7n6inN+TIoN7IO6b8Pam/8A+HaaCN24+VY9QzQD9q7qHwzrLU7tPcIH4lG9fYysitFe6lB2W9RYFuPJaDKrG6wCxKPBX8I7xSTqXxjdK3LVvcvzJIYBT23QZn1nBpCm26SNL4eMVbZlL2nIYggggwQRBB7gjsaYdPWOKH2kmWMk8nuT3NHaZafjjTsz5p/LQyW9A4oTqNi4U8Uo3hk7d8Hbuz5Q3BODj2NPuldDvMBeazNoFT+8JRHkgIobk7mIEgHmjerdWR0b9qs3ES2ypYtqVKuzKZKJADEGACREMSAINXmy18ovhuFb+bofP7SZo3eYozqPRHs2lv3dqeKx2WxzBzPsAD6enFAA0WJ0tgssXe5KxzTrQvFBdA6Q+pui2kDEknhQP94A9zV+023ZCcqxU/Yx9qdCaujNxGNuN9hm92RSq4FJZWBgkbh/kPc+wIk+wNFLdxQmrJUi4M7fmHqh+YfXv9o71fFY9eNr7i+BkseTfo9hZqL+1zbYhlyA3IMwRn9Kjo9OzPtWIJEqxifpAJn3j60y1GkS6McNJU9scAnvggj1FKdRprqH5W8pAmOPQE/Y8+lcSOVQuP7HfcbaNXp2vWLa2kdcE525ySTyfer+n6e7ck3brgTjIkiT2WBFd0nRFlBd1+UTIJMkTBHYmiTZYGAp++K5E+KWp9E/Nbmzlypda/YvXTae2DABJ/WkHU+r7rwQsyqAI2c5njvRnUfEV0BdFU8mP6k/0oHW2rBdeXMMd+Y8u2BuWCOTkHtRY87tNtsGS0+LOW/ZW+nho5uTk3CZPIxuBh8EQY5NX9Q6rY8SNl1DHmaQFIB9ARvjmIPBiYovqe1gdRdZQxdQGEl5IJAYmVYDYATgksJHc+aN7FxWYLZW6oJuKAGifx293CkHIHyk+kGtuHOpJMGm+q3IbRvtsy70wcHlT64z69+Ig9g7Gqkxwh8q4jYcTbfAiO3/AGg+8HsgeDbV7f4rfDJJmbZ7fSlPxFoGIa4oBLbfNmYE+8Hng+lNcI5FQcMssb1IK33BgXioHYnivaE0/wAXW1UKyOWAgyJ/XvXVl9LLwjd66Hlgeu6A9i2t24VKxba4iE70S4SFMkbSTtIwTB5xReq6Lbu5X92jL+5li4ZJBVm8u6TuIgx711dXTnN6TkQxR1dCv4isXtMlpVuvsxliC8+bYREhUIDALJI2tMBsqdZ1i5eti2wSA24kKAzPBEs0ScGMz9TXV1XFbi8j3aKbNo5jMAk/Qc066R0oeHb1Nwb7RueH4akq7H5ecAAEqea6up67CILU3Zb1DpaWf3lu44lnO0coBhdpPzEP5ZJ9+0sK/wAShlZWtAN/9Nx8y4IgEERM85iO48p6upS33Y+T07IXa3qN2+VN12uFMLujy8YkATwM+1Vb66upq2M8t3uRY0x6P8N3tShddoUOibmOJdgowJPLL27n0rq6oXAav8JDTul5XDxB27dp3EH3iJxzQXXbzFEXdaZZ5S14R3bREwc4M9q6urPjbb3NOWKUBahrV/DHw8L1i5eubwPlt7SvzerSZgEgR3ntFe11aZNpGLHBSluXdd+KUuG3pAXRQijYGYjdt2ogOMAHmBg8g/Kv6f1YWna7qNz3EXbaUszC2M7oYkkvCkljzgAgV5XVmXU3VSdFtkG94+p1lti0fuUDjw13qHWApmZdSZ5k96U9T0Asi3Dhy4YkAEBQHKASeTKmurqbik7FZoLQ5fQ0nw90Y20takhlgFw63DDF5CW2QEHaIUznkiO9XdN6XZGjv33lndjsYgSAbnhqwHGWyflMR711dUUnrf1QjMlpX0ALfR7w0o1JjwyYGRPMZH1/keMSA74rq6ujjk2nfk52WCjJV7Ci7qVtNDLutsQSO6k58vp6+x+4J7a17x2NlTcXaGP4QDB3AbgdrE/0JgDq6uNxkI6jsYW3BDe9agC1bJF63PlbIdVG5yrDCsBkg4IGM4q//EUVZuu/yzsTEnj5onse4rq6uHpUqs08yWlbme6h1Vty7bYGYBLSxg+pzz6moarW3MFiTMyoiJ5OOODzNdXVrUIpLbyHkitQf0q+XZgcxDjiRO2Mxz7TH86K1Xw699y1szcbe/IWQAXYDGOGwcZxFe11ZnNwy/L7FifpfVXtZ3K0kkpBBgjysGiOcEe1abqzGy3hXgswplCSrKwkESAQfYjtXV1dG6mqKj+kUXPh5XJYcHI7V1dXVp1MrQj/2Q==",
+            "image": "./assets/img/International/Dubai.jpg",
+            "banner":"./assets/img/International/Dubai2.jpg",
+            "tagLine" : "A Megacity That Never Stops Growing",
+            "Information" : "One of the most exquisite destinations for a traveller. Home to Burj Khalifa, the tallest tower in the world, this global city is known for its lavish architecture, incredible skylines and a plethora of tourist attractions that break records to be the tallest, longest and biggest. Dubai has abundant opportunities when it comes to adventure activities like Desert Safaris through golden Arabian Dunes, Skydiving over the beautiful Palm Islands, Reef and wreck diving, kite surfing, wakeboarding, etc.",
+            "bestPlaces" : [
+                {
+                    "name": "Burj al arab",
+                    "image": "./assets/img/International/Burj.jpg"
+                },
+                {
+                    "name": "Dubai marina",
+                    "image": "./assets/img/International/Marina.jpg"
+                }
+            ],
             "videos": [
-                [
                     {
                         "id": 1,
-                        "name": "Burj Khalifa",
-                        "thumbnail": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/74/81/8c.jpg",
-                        "videoUrl": "T359xU6jAGQ"
+                        "name": "Dhow Cruise Dinner",
+                        "thumbnail": "./assets/img/International/Dhow.jpg",
+                        "videoUrl": "uQBOjqLH6ss?autoplay=1"
                     },
                     {
                         "id": 2,
-                        "name": "Dhow Cruise Dinner",
-                        "thumbnail": "https://images.thrillophilia.com/image/upload/s--HYSgEdF9--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/151/328/original/1556193320_marina2.jpg.jpg?1556193320",
-                        "videoUrl": "uQBOjqLH6ss"
+                        "name": "Burj Khalifa",
+                        "thumbnail": "./assets/img/International/Burj.jpg",
+                        "videoUrl": "T359xU6jAGQ?autoplay=1"
                     },
                     {
                         "id": 3,
                         "name": "Bollywood Theme Park",
-                        "thumbnail": "https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/800952_Viator_Shutterstock_460548.jpg",
-                        "videoUrl": "TWPSYPEdG-M"
+                        "thumbnail": "./assets/img/International/Bollywood.jpg",
+                        "videoUrl": "TWPSYPEdG-M?autoplay=1&start=4"
                     },
                     {
                         "id": 4,
-                        "name": "Desert safari",
-                        "thumbnail": "https://miro.medium.com/max/768/0*glg4aByclloflQ-V.jpg",
-                        "videoUrl": "nElKtJV89xM"
+                        "name": "Desert Safari",
+                        "thumbnail": "./assets/img/International/Desert.jpg",
+                        "videoUrl": "nElKtJV89xM?autoplay=1&start=14"
                     }
-                ]
             ]
         },
         {
             "name": "Australia",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNf-5kraFSJjMzvpphhWL469Ue3FS-wdRcQ&usqp=CAU",
+            "image": "./assets/img/International/Australia.jpg",
+            "banner":"./assets/img/International/Australia2.jpg",
+            "tagLine" : "Land Down Under",
+            "Information" : "The perfect place for adventure seekers and people who love the sea. It is hands down, the best place to belt out your scuba diving skills as you enjoy the seafood by the shacks. For wildlife lovers, there are a handful of sanctuaries as well which are so vast in their size, it takes your breath away. Other than that, Australia as a country is very metropolitan in its nature and the vibe that it imparts.",
+            "bestPlaces" : [
+                {
+                    "name": "Great Barrier Reef",
+                    "image": "./assets/img/International/Reef.jpg"
+                },
+                {
+                    "name": "Yulara",
+                    "image": "./assets/img/International/Yulara.jpg"
+                }
+            ],
             "videos": [
-                [
                     {
                         "id": 1,
                         "name": "Sydney",
-                        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgVFhYZGBgYGBoYGBgYHBgYGRkYGBgZGRkYGBkcJS4lHB4rIxgZJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHjUsJCw0NDQ0NDQ0NTE0NDQ0NDQ0NjY0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0MTQ0NDQ0NP/AABEIAMIBAwMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAACAwABBAUGB//EAEQQAAIBAgMFBQUFBQYFBQAAAAECEQAhAxIxBAVBUWEicYGRoQYTMrHBQmJy0fAUFVKC4SMzQ5LC0iRTorLxBxY0k+L/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMABAX/xAAsEQACAgAFAgQGAwEAAAAAAAAAAQIRAxIhMUEEURMUMmEVIoGRobEFcfDB/9oADAMBAAIRAxEAPwD15WgitBWgK16yZ4jiLq6KKsLWsyQEUQFFkostawqIGWrGHRhaPLS5hlEWMPpVe5pwow5pczGUUZhgmjGAa0gMaYmDQcxlhik2cRc0xEij93U9yam5e5VRrZFhgKE4nSiGzUYwKFoapCmfkKHITWkYFRkHOspLg2V8mVloIPOtZRaUyCimBxM7qaS+Ea0sopLiqRZKSE+66ihOEOYomoWFPbJOuwpkHOgKCmmhNMmI0hJSgZKcRQEU6ZNpCGSlla0FaArTKROUTOVoGStLLSytMmI4mbJUp+WpTZhMp34qFaeUoSlcVnp5ROSoFpuWplrWbKCoqzh0YSjVTQbGURMUS00YdEcLrQckMosVFWFpgwutWMOhmQVFkU09WpYgVM1I9SidDS1UcSlgE1eTnQpBzPgI4tVnNCYoGNFIDkxpfrSmxKA0JFFRQjkyy5oS5q4qstPoK2wDQkUzLVFaItCStCVpxFUVo2K4iCtUUppWhK0bFaElKopTStUVprBRnKUDLWhloCtMmI4mYrQstaGSllaZMm4iIqU3LUprFynpClCVptWVrgTPUcTPkqwtMIqoo2LRaxTAtCtHmpWURWWhYVdQpWMwKgQmjVKMqedazZQBh84osqilzRRWMq7EYjrQGmhDUK1rM0Jy1MtOC1MtGwZRBSqy0/LUy1rNlEZKhWmlOtCVoqQriKK0JWmlaoijYtCStCVp5FCVo2DKIIqitOK0JWjYKEkUJWnFaorTWK4mcihZaeUoSlGxXEzFaArWkigZaZSEcTPlqUyKlGwZT0UVIooqRXFZ6FAZKrLSMTeOGJUMGcWCCzM3a7K5on4Wk6CJNM2Pa1cSAR2Ee8XDgxHPQjwoZzZQ8tWBTCKmWjmNlF1AtHFXWs1AhaYtUKuaDGRRjlVeFHNSaAQDQkUZFURRsVoC9So7qoliACQL2uTAHeTRRRsFAEVIooqZa1moAiqimRUitmBQqKorVjGUnKCCb6dNb+NMIrKSewXGtxJWhK04iqIprFcRJWhIpxWhK0VIVxFRQkU0rQkU2YDQkigYU8rQEUUxWhBWlstaStARTWI4iMtSmZalGxcp3YpWM4VWY3CgsfAT9Kzbn2pcTBR1Mh8xB/nam7ef7N/wP/2muRM7nR8y9kMTPtuaJzF3liSZh448nIr1O/d6jYlRlQuWUIJaAowxYmBJ+PpXmfZJSuOgVFDFGu5licvIXAj6V0Pb0sUw8ygQXgjj2Umo407xVWw+BhNYTvc3bD7XOyF3RToRlleAJBkn7U3nSK9DuTe4xwezlYKrFQcwGYc4Gn1rwO6gPca3uD00tEV6z2SUhnt9hPrSRm3OrLOEVC6PTzVGiipFdJz0BFSKOKkVrNQMVIq6Ti7SifG6r+JgvzrGHRQYjhQWYgACSeQFZzvPAGuPhDvxE/OvO+1/tEmDhZ0YPMe7ggq7kZgwIsUUQZvJj+Gkk8qs0aZi9oN8BsVUImGHY/gkSZ5vlk9LAakn2G78fOitMnQnmY18RB8a+Gbr2lvepiv2i5Yu2puxggakiCR+GONfVt37c2FkTs3N1J7RS5GXrcxOo864PElhYtyej3O2MY4uFUVqmeniqirW4kaHSl7TjKiF2MAfoAda9FO9jjarcXtm1JhoXcwo8yeQHE15nH3qzg4mITh4AMKint4zwSEB4mAZiw8CQG0scZziYrZEQFjOiILk9WPqfKvn29t/HH2hMQdjCwWHusPkgIJnmzAXPhwqOLiNJqO/cMYJNOW3Y+j+zu3vjYrMwCqFUoiiAqOrWnjBXXrwr08V5H2bKpiRNshvIiEeB6PXpW28E5UGY8+FcvR4yUHmfJ19ThNyWVcGiKorXN2XeqPi5FcNA7WUdkk5oCtxjIdK6pFduHjRxE3HjQ48TClBpMURVEUw0JqyZOhZFCRTCKqKNgoUVoCKaRQlaaxGhLLSyKeRQMKKkK0KipRRUprBRxN1b3Gzbtw8RkzgSABCySx+1GmvOgwPbbBdMVMfLs+IFKhCxctmQEEEKAPiAiuTi7Op3YkgXZSYkE3+0Qb8fOvnO0FsTHcgXLE3IEDMOJtXLhvNd9zonolXY9j7G45fblJj+7cW5BYr0Ht83Ywu/E+SVzfYjcThzj5wwUMgCggNmEFgz5bCIsDx5V0vbqcmHIi78QeC8RaufFcfE04OnAT8L5t27OXu0xgG03POOAGnca9h7IDtOPuJ5zXk91YZfCCrcl4gRpzJi2p1rvrhY+zMMQyFVRrBV85IVcwkai4tEjpU4upWUkvlo9o1gSdBr4CfGrivM7LvTaXRcQHDUOFcLlJhWCtHMkBon0rq7PvWSquhBMCRJGY20IBAkVdY0XpZJ4clwdE1QI4Xrzvt4P8AhunvE4kcG5Vz/Y9yBhqGMFMOxLfwTzM0zlQqjZ2faxyuyYxBIITVSVMZlmCNLTXyTZyGc2+zNyTeQJv3nzr657Xr/wAHj/g+or5FsB7Z/Af+4V0YLWZHn9baT/o6u68CcbDygSHV5I7ICHMWboApJ7q4O/Noba9pGFhSEQe7wxwVEsWb68z313do2kYOA76M592h5CzYhHIxl8M1aNzbGNnwRiOmd2ICYYAlnPwYY5ATLd/lDqsZeI/bQr0GE/CXvr9BWLs2BsCI+U4m0FYwkmRJ/wARhwGt+M2jji3Um2HaBiOrvnbVTZCRIIJsoGUj+Xz9PsG41TNte2sMTFe+UfCOSJzAt05zx4u//a12JTDgEdkAAZMMclH2m66A+Q4nHOq3s9JPI729j1u8vaxMBVUuM0QSAW+KLhOROhaBe0zThtx2lEMyEUZuEuR8UdRPcQw4V8p2XY3xhiqSSzrLMxkkghpJ/lrrex2+HwMYYWLMjgSYZSRJtqewP5lAtJotSwl8rtLceLjiO2qPXb0wDj4ybAhIURi7Uw4CxTD6G4PeyngaPfvsjsgw+wPd4gHZy9rNGudSdPvW1GulaPZ3AfAw3xcWDtG0YjO3EC5Cmf4Bdh+KKaMIsSzEknUnWBoP1zrnliPNSKxwU02zFu7ZH7KC5gCTHAAST4UHtHsW24mGU2NWCC+I5GR8WOCTfJ0A7Xd8Xq914CqCTYL8RPPXKO7j1PStG0bcQjPoFEDmSbAfnVIpJCyt6HjPZkMGTEyFQQcw0g5lZhB+8HHjXrW2zkPrXBw8bibk/WsG+vaAYUonaxCNP4J/i69Ne6xoYKlhppPcbFyypy4O9vPfmHgLOI4BOi8Sa424faDE2raSAMmGiZsvElpC5+PA27rV8+3y7uvvWuQ4BZviGcEW5La46CvXf+muFL4r8MuQDl283+qrxcsyt8kZ5MjpcH0IVRFWFoorvs4KFEUBFNIoCK1itCjQEUw0JpkwNC6lXFSjYtHi8ZwN2pyDLP8AlJrwm4DOLinhlkT+Na9VtW8sJdnGzYiK65wRkcpkUiELySbC9jLSLCuPsex4eGew4JdSMzEFTkYZhIPZNhwg9K83zEYJp8uzueE3XsqPf+y39yt/4ufAsfpXM9tfhw+Ms/G5MKI+VaNx7yw0wwrMZBOa1lEFsxOmWCDXG3rvfD2tcLJnUB3DH4dQsMrx04ielc8ZKU7Wx0tZY6lbv2V2QgIzdqQkEmMqzwuDM24EV6fe+GBgTkCdrDOigznw1N4DV5rcaYODtAdncrkcFnB6EQVudDw4dYru712/BfAAw3UzkkTfs4icNdAatPKnVksN5vmao6m43jZsHT+7w/8AtSjx8VUZGdwoDKZJgfEedczYd6YWDg4SYjorLhKSpPahQAYH8rRzi01wdv3hi4wzEoEFwqFGyA27TLJzHvi+mlck5ZZNvudK1jSPW7ftX7YxwURWwlZHz52w3YRBChki0m88q5pCoqrhHGwykKZaWsoUfZEWnrXP9lWAxHQzKqARJ5i9vDzFdTGWcUqNWYATfWLk8K61iuaTXJz5VG0zBvVD+zYzF3dsrXd3e1hoTHpwFeU3Fs+bFkg5QhLWj7SwPH867G8d6vmxcFgoSXQscwkho7LzHDlStgC4WG7mFkkzmLSFBygE6knNau7p01LU87rMs46f0YWX9p2pEURh4F2mys5ZsoPQXPUC+tep2TEQN+0P8KgpgKTHZ+0/QtqW4KQBcmPDY21FMPDRDDsi4jtxzuBlnuAFuQHOsSbbtSgBMUySSzEkzJntBrHy+QqOJG3Z0YTpUtOPod32l9o3xnZEzNAgsgNvuoF08NO+TXATZXAllZBIEEQbmAY4Ctn7w2yAW2hFtf8Aul6TBXpWgbbtNo2pY6+4/wBtQcpR0Vf76HZHDg9W2y9wYgD/ABTKsNe+PRW9K6G/d2Zu2qFMVSChECSBcFhYzAFrg3rIm342YTi7MWEG4wsw5HQHWL11cN9pdJGNhnkP7GCB95XQjjaKi5tO2WUY5aPSez22DG2VMT7RGQj+FlMFY4RBAHILXZIyi0AzlSdA0SWbooBY/hryGxYu1qCs4TCVK5HQQY7RYFzJ0APSg3xvnacKzohdwBhoAzEKTd3yvkAzLYccokioaOWg+uWj2uJjjKqrOVdJ1Y/xt1Jk+Mm+gb1xowkUcRnP8xIX0Br5djHa8UE4mOyzfKCQB0ITKPMmtWJvPaUwQiuGKoEVo7QVQwWJOoJ4z3VVSWtPUHhvTTQ7W9t5+6BRL4hszgEhLEwObwP5Z56cDYsDMZ5m5OpJ111rk7PtG1qBlcgCwDKsEAACbSPA867ewbVtzrPuFcSRIDctJkj040zbS3Qqim9Uzr7VuFcTAZFMORIJiC0WB6d2ldP/ANMdkZMDELqVb3pUg6jKqgjzrh4e07YokbI09GYW/lQ13d27+x0Qzszqe0xQq50gWbIJJAFqOFiRj6mLjQcl8qPaRQmvO4PtVLBW2fEkwBkANzwh8pPhXoc1hw6GJHS1dsMWMlcWcEoOLpkIpZomalM1PnEykagNRmpTPWzGyBTUpWepWzGyHwXDxveYj4l4UMVRB2bDKpYyJu3eegrTszuhXCdWUR2ZJWOYPAkX5aVzcPanE5eyILQAbqGEwftGedrV6FNnx3ZEgDMyQzyAofsKz9nsgnMfC0xXDiritDqi29UFsu1KZw3OZHtlBvzOXjmUEHrY1j2LeYwyVZZAZryLagSR2VOnDjNqvbcJkZsLCVi2E5QsVWGZs6MyFTBU5FufHlTdk3WEKK5Z2JEphgR21RSXddBLR431mlhhpJvuNcpDP273kkxlsJVSIUE9rMZHUgWv30/Y2djkRCzE/EpJ4a2EgW5dOYG9WVAXTY2ZlCHtNlLl0JiMpOZbAzFx4V1N0byK5FTZ2wyRmyo6MVZiWIAyieNwDr3mpvDerrQqlrVnl9v2HaQc5R2BZiwCENA7MZhcraI4iOdb9i2V8ju2C5dUYkFDDSQqjSJBYHw8vT7z3y6YRdiRBhe2k5jIYMjDMTDT2ZENwua8dvf2ox8RWRnbIxuiD4hr24+ITw0vVIwz0JL5OR+ybVkUq2KpJWQ2bUiwUlSSlwLwRDG0i+dNsCh+2O2IIXPm1JkmI1MyDztXn8TDntZnvfKCLTwgmtKuIq0OnS5f6JPE9jrneKLZXeBOkRHQPXD3htDu4ZnXKuYKs5QAwIMKLAmTPfWhckTAnnFT3izp6Gum2QyxRWFMSRzjX5+FE7GLWpbY0/8Ag1MPEOW4vm6zF/CNPTrQdpDKmz1Ow7EjBcyg2GoB58++u5s+wYcCcNDpqq/lXG3ftGMcBsTD2dHVJBdnZCQihjoYkAgcJoH9pcVWCrs+ERaW944Av1Exx0npXlYmHizk8v7PVhiYcYrN+j1GHurANzg4ZMC+RPyrUm6dnAtg4Y0+wg0jpXmD7S4wIAw9nusn+2ax4p8Nz1Fje9RfavaAZy7MVkGCWZiARABzaxnJFvsi9Iumx3vp9TS6nB4/R6RdwbINNnwRMTCKJgyJgcwDQb92HDGDiOqKHUAgi32hNh41xtn9vMQwH2XAF1zEFhEzmIAJkDl1rqD2xwHzK+z4eUiRLkhiMxykZLDsjp2tLU/lsS/mkJ5iHCPInaazPtXC8+Ner2jb9gxBlOAiSxbMmIVYTAt2Yi57OgjSsOz7BsbECcYC05XwyYPEdjhr4GnUFEbxsx539oaLKfI12dy4yG2Jh475SxU4QxOxmAnMqETOWxMxHWp+4sSSFaQpIBC/EJMN2nsTa3D1rbu3A2nZ3LJg+8DFV7TBJUm7dksRB6Gw0oSkmqW/90GuWdHDxMHgu2LH3doHXjWhdowv+bta6CCMWOHNTzqJvPaY/wDhxp/ik6g6djhHqOsJfb9pbER/2bFRUzZkVlZXziBJgQVInx1qKi+f2Ztf5GjA3nh4RUttmIQpWRiooDSDZm92Im5kEaVe/d/4joDsboYnObOSJy9gcIIYHMPHnab5xoJOxYwj7yEm40AN5knwPSc+895Y7piYabPtGG+VsuLkRhmQ5gAcwMNlgG3xDSrYcpxdL/lE8SEZLU4jb+2xHBbFbKWvKYbAKeJEAgLN+dMxt77TOYYjBHUlcR2Co7R2ig7QIABsIgm9hXGxNh2oFicHaQ0Moyoj2YRGZYgfFoOIjLF+TtW7sZGylMcKACnYciWUMRcgLeAYm44wJ64a+pr6M5Wq2iz0m0792jFxkw3MIzsqlSyo7KIC2IDEMAImZPcKx7dvba0E4yOgPw5lxFgreFZjpIgjqa8+ExiMmVspyyMmUKbSWsII0J6Ue0bVioWRy7MpA7TkhSpmVElTMC/jxquWxbS4PTbT7c4iOyoBiKD2XLXKm4mV4Ax4VK5+GcwzAoASSASsgSYm/KpSfL2/I2f/AFHUxN6OVZUATPF4RiLAGDlBiw9edLwsTGGuOp0GU4ZNluOMWrmLiXsotxP6IpgxTANoPQGfEV2+Wwex4HnupW0vwjrYu2sz5zqLrkZkg5swPYjPEkDPPxNzqto2lHwfdNh9oK6h87grmMyFBg3gwbW4C1c99qAgH9d9qjOGWAfKPKs+lwuFt7g+IdVzLT+jGvs4rgkuTHAwY8z0qbLu5cJw6OyOJysAsjMpWVtrDGtqmBz6GJ9KoX1U8dFk+lO8KFU0T83j75jGu6osHY9SP9UXph3QeOIR0yg+tdDDCRee4nLR4gOU5TF9EUE9RMj5U6woVsI+rxr9TOam5Cf8QgTeUFvAmaZjbgAuuOW5/wBmR8zetqibEweZJnxW9WDE3U92YfIDlR8KPY3ncaqs5+07tzuW95GYzGTTprVYW5lOuL0+BvrFdQICJAv/ADR50JwSOKeBM+UUXhx5QI9XjJUnscd9zwfjHl/Wi/cx/wCYF7xP1rsLl4AfK/WoHAsSDfnb1oeBEPn8a9/wCMB8PZn2b3oId85ZVIsQvZ8cg49K4h3c/DF/6f610sbEAP6+lCJ1t61BdPCLdfUt8QxpbvTg5/7tf/m/9H9aH93OP8Uf5f8A9V0ip6eNqI909xo+DEHnsXujB+6cSJ96I/Afzok3U5H94P8AKfqa6CqOMj0pjORa5HTl0jjQeDFLUaPX4zen6OV+6Hn45HMIa2YOzYqaOCOqmjRRr2hzJ4H0NWMRT9uF5RbyqcsCEty0f5DGXJpwduxlMypHRWmtSb/xVgEKY5GPOueCoJOeDziPkQTWXFeTcg9bCR4UnkcGXA/xTqY8/g77e1WINUA7yfnFEvtViH7C+J+Vq84J4fJiPnRAgcSDwhgJ8zeiv47B7P7gf8t1PDX2PSf+6MQaovnH0qn9rHFyijxmvNok85/EsD0v4GqdYvIv1Y/O1H4dgdn9wL+W6na19j0h9sGicg6X1rNvL2kxMRBkGQ37WpgiOydAdP1euGGA7WneLfOqLniQeUCPO9xRX8fgrj8h+K9T3/A3dm2vgs7tDB0KhItM5sxJuxm5Jk+QFYm2dSWIDZWzQGCHKGJMKSs2nWnFNRmUnl+tKH3ZCy0RyUyfTSqxwIRbaW5GfW400k3sKXDUWzG3XD/21KLKP4Sf/s/OpR8OPZA8zi92CGEnM891v9X0p+GQPtg87i31ov2aRIAB5lwfLsmiGNFioniRHzgVZKjnk72/4ErqBrPfb1NUMQHjNWrrxJ9fpQs/LL14fMUGydDFWPtEfP1FOw8GdTPLMAfoKLZ8TgqgHvSeOoNOLro0eJSfIMPKmSRNt3RAsfauO5fAAil4rkCZVTMSWDHwAj60ThRBVliORE/5SaJNqtBZTHMFvAhrn1pvYXTegVZjdgWPPs/rzpL4hvmXzZfkBUfaEJIhQeeU+lrUKqdQSY/EPnalb7DKPdDsBwRYEdZ+c0xQ3EEjoR8iTFKV5+KPAH52pq4QY2iRb4WnzmmQj3AZARNx0MfSlnvPrRPbsg99+NIyg6lh3TSydBirDy2/X0oWw5E2PrU90o4seUgkegqikaKQOkDu4zU2yqVBKgIj0imKOvnSThjkT1BmiGAvAN3SY8tKKYHG+R6YokAkDhbsnvvrQYg6sJ5mZjTTWlZRwAHfAqBAb5QTx/8AIpW9SiWlDMpH3T94cOP6mtKK0wMRe7KR4yZis+Bihby4N+JYeRMfKk7RtK2BCsDqMpnxJpLsqkkg8dyTlOWOY/rSiLQGXukg99hSH2lNAmUdInxGWiXFUCOzfQwo8NAadMm466lsOB+ZPzFCDrDfIHu4ULY0fnmn5g1ahmuGYcok+gAmntAUWgigtqed2FPwiB9rLbTNcjrmrDi4B4s56QVjrBNFhbKv2pE8WX6n86CbvYLiq3NXZP2j4KGI8BrQMcswT3aQO4ClLsyawI5yvyp64eGswxXrFr/himtgpIQMQG5hh3MfO1BiPM5SKPEwVY2LHrmI+c1P2UcmPcVaPMA0vzMf5UIAHMen+2rp/wCwdD6VdNlYM0e4glpm3eGIMU7CxTqSSesn1p+Hhcj6UD4bTMNexiIHlehTSFc8zLRhNFiKZsBHUn8qD3Sg215E0TE8x+vCtXcS1wWqlvsqSD90keB/KnHCf4s1z90adBA+tJQgnh53olCgzJ9B5ReikZsfnYAhmNtLC89CbeVIGLlIgHT4pHpH50sgAkrmE8yfnNMnkSegIPrNq2rBSRZZjcggHTMCZ8c30qgoPD0EHzocxBiD329LGnogj4o/EPlEfSikZ7BgqLadzMo77GaPCUz8aHvZjblrNZZveLcQov5mmrhA6ZZ5n8gQKNiNB7RPPugtFZ1zHQA+J/KnYyGJj0t6msmb7oHWY86WTGgjSkx2gLcS3Dv/ADocNAx7Ik8pA7onWhYwJI01uST3Xg0kbQhOgInTKT+dSbLJXwaGQzaRPT+tRFYG+Ujj/WbUo4kiFWByosIayB6mPCjrQGlemoTlZgkd85RPpFNTCzdkQxF+wQbaXkzOt4rI+0RaNPun6aUxNrXQpeNSAvzJ+fHSlb4RSMVvI0YuGg1Vx35T+fnasbbQANL9frcUb4jEjKCBxBaRPQCLUkuxmQPD60yi2ZyXZAnaFnTLbvk/IVSssQIPM2F/Cr90TwHS9/Wl/s0CSCBzNr9K2Vo2ZPsESAYCx+vKo2Yj4QfAT6i1Vh4I4fl8qNTziNbU2UVyKTFf+EC2tvqKJ3cjKI0qZydGBHd9ZqivOPyrZfcOd9l9gQcQGzEHlYihGJig8PJR9KZEaH0/rVl+AYjuj8vlQyruzZ32X2KcMRfKOsCfSlMhWSApB6sPmflTiDxJtxj5igI1AZSeRFFxRlNiPevyfwb+lXT/AHDc1/zCpWp92bPHshpF7SBxOYfQmjKAggyw5Sf91AzHipHeY+RNRkX7095I/Km0JUENnkXLRwAn6mlKwBi514imjDEXjTj/AEEVeCyzoI8qXkPGoCtPHwt9KmRtbdxP5GjxAQdQemvrerZSRc+QGnfRYEkLRuoJ/EYqFW0FuPZ1/rRJhxpPkT8qpzGoJ5QIpltqDnQtMw17X8t/Oau/XwpQM/ZPnb50WUcvU/oVkZ+4YabBr/L8qdgkrrfvv86ze6XUgnlafW9EGPAN4gDw4Vl7ga7DcXHnS3n9axu7czrpTHX7x/XjQlQLsWHQAmkqykXQKbTH9aB9onQSe4/SmLhgmcw56XP0FK42Cgji2WfnS5R00Uu0qeY7v0Kbgup+0fLSphiQJQdCJ+l6dCqbwvgB6mjlbM2lsViYk8Z8BQCCLeMgiKY6T2lv3sD6UDr93xE0VBIDm3yEQYiR4zahAjipA6D5k0JW3A+IpmHhC/bE8j14XBFFRS2Fbb3YnMsyQO8FQfMUXGwt3z86rF2czZz/AChSDPPSfKgbZIuSY55T/pJFbXsGl3NIwxF8sdRVAAfaWPuzF+8SKSuygXv3gkf6qadnWfiBPJmk+pajb7A07lso1BPlHrxoS17nzBolwsIEHjxygGPJQf8AzQYuEjaXnh8PzrWzac39gyFAmSD+HKB3Nxqjirz4a5ljxGpoRsyAaQQeGU/I004aicwtzBYepFa2DQWxMWDRzAzepNAMXncd2nlNNf3cfCR/KCs9CBSBs6EyBHUFl/Og74HWWtbBbFHP0H51Kb7gfxf9Y+q1K1M2g1/rWTH1PdUqUstww2Ney8P1wox9D86lSmWxOfqYrC1NXtPw+P0NSpQ4Mt0TDNENRVVKKMwxqKWwvUqU7JoflE6VztqY5jfjUqUuJsNg+oMHTwplSpQQ7GbVoO76Vz2YzrUqUJjYWw1GMa1r2fUd1SpTR4BibDMK4M3pbqJFv1epUp3siK3Zs2TDBiQDblWbEUSRFsxt41dSlluPHZmdRBMW/S0wG57qlSpL1HUvQNTQfhrHjOQbEjXS3GqqVTE2IYXqZrwjJWb2Ot6jcTxkX86lSkexl6gt4fB51w8HHaB2m15mpUpJblo7G/ZsVp1Pma34+Es6DhwHWrqU69LEfqRz8TU1KlSolz//2Q==",
-                        "videoUrl": "aPaB_vbvz3E"
+                        "thumbnail": "./assets/img/International/Sydney.jpg",
+                        "videoUrl": "Yc7r_bbt00M?autoplay=1&start=7"
                     },
                     {
                         "id": 2,
                         "name": "Melbourne",
-                        "thumbnail": "https://heremag-prod-app-deps-s3heremagassets-bfie27mzpk03.s3.amazonaws.com/wp-content/uploads/2019/10/14150112/denise-jans-gmtAa0Q5MI-unsplash-1200x900.jpg",
-                        "videoUrl": "2HYSO6nNUsU"
+                        "thumbnail": "./assets/img/International/Melbourne.jpg",
+                        "videoUrl": "2HYSO6nNUsU?autoplay=1&start=3"
                     },
                     {
                         "id": 3,
                         "name": "Brisbane",
-                        "thumbnail": "https://api-abroad.sfo2.cdn.digitaloceanspaces.com/images/_1200x675_crop_center-center_82_line/australia-brisbane-bridge-rainbow-1020135727-Hero.jpg",
-                        "videoUrl": "T_Pns9gPc6Q"
+                        "thumbnail": "./assets/img/International/Brisbane.jpg",
+                        "videoUrl": "T_Pns9gPc6Q?autoplay=1&start=5"
                     },
                     {
                         "id": 4,
                         "name": "Gold Coast",
-                        "thumbnail": "https://images.movehub.com/wp-content/uploads/2017/09/14124100/uk-to-gold-coast.jpg",
-                        "videoUrl": "58rsUSliY-w"
+                        "thumbnail": "./assets/img/International/Gold.jpg",
+                        "videoUrl": "58rsUSliY-w?autoplay=1&start=4"
                     }
-                ]
             ]
         },
         {
             "name": "New Zealand",
-            "image": "https://www.telegraph.co.uk/content/dam/Travel/2019/September/nz.jpg",
+            "image": "./assets/img/International/NewZealand.jpg",
+            "banner":"./assets/img/International/NewZealand2.jpg",
+            "tagLine" : "The Land Where Adventures Wait",
+            "Information" : "Lies in the Pacific Ocean, to the southwest. New Zealand promises beautiful landscapes and serene, equally beautiful coastlines that you can drive along, listening to the sound of the surf. The country is also known for its adventure sports activities as well as its museums, art galleries and other heritage attractions.",
+            "bestPlaces" : [
+                {
+                    "name": "Te Anau",
+                    "image": "./assets/img/International/Anau.jpg"
+                },
+                {
+                    "name": "Glenorchy",
+                    "image": "./assets/img/International/Glenorchy.jpg"
+                }
+            ],
             "videos": [
-                [
                     {
                         "id": 1,
                         "name": "Bay of Islands",
-                        "thumbnail": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/47/cf.jpg",
-                        "videoUrl": "Gl0Kfp4x6lQ"
+                        "thumbnail": "./assets/img/International/Bay.jpg",
+                        "videoUrl": "Gl0Kfp4x6lQ?autoplay=1"
                     },
                     {
                         "id": 2,
                         "name": "Auckland",
-                        "thumbnail": "https://cdn.britannica.com/99/61399-050-B867F67F/skyline-Auckland-New-Zealand-Westhaven-Marina.jpg",
-                        "videoUrl": "GVJgALuLRrQ"
+                        "thumbnail": "./assets/img/International/Auckland.jpg",
+                        "videoUrl": "GVJgALuLRrQ?autoplay=1"
                     },
                     {
                         "id": 3,
                         "name": "Christchurch",
-                        "thumbnail": "https://www.seabourn.com/content/dam/sbn/inventory-assets/ports/AKA/Akaroa-Christchurch-New-Zealand.jpg.image.750.563.low.jpg",
-                        "videoUrl": "4SxBSgnhugA"
+                        "thumbnail": "./assets/img/International/Christchurch.jpg",
+                        "videoUrl": "4SxBSgnhugA?autoplay=1"
                     },
                     {
                         "id": 4,
                         "name": "Milford Sound",
-                        "thumbnail": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/5a/28/f7.jpg",
-                        "videoUrl": "dMGSrS_2R6I"
+                        "thumbnail": "./assets/img/International/Milford.jpg",
+                        "videoUrl": "dMGSrS_2R6I?autoplay=1"
                     }
-                ]
+
             ]
         },
         {
             "name": "Sri Lanka",
-            "image": "https://thecommonwealth.org/sites/default/files/styles/press_release_large/public/images/hero/colombo-srilanka-shutterstock%20-%20article.jpg?itok=MX5jMV3S",
+            "image": "./assets/img/International/SriLanka.jpg",
+            "banner":"./assets/img/International/SriLanka2.jpg",
+            "tagLine" : "A Land Like No Other",
+            "Information" : "Rich in culture, Sri Lanka is an intriguing blend of well-preserved local traditions amalgamated with rapid urbanization. With eight UNESCO World Heritage Sites dotted across this tiny country, it is no wonder that it was named the best country to visit in the world in 2019 by Lonely Planet. The plethora of water sports, breathtaking sunsets, sprawling tea gardens and of course, mouth-watering Sri Lankan food, are sure to make you fall in love with this gorgeous place.",
+            "bestPlaces" : [
+                {
+                    "name": "Ella",
+                    "image": "./assets/img/International/Ella.jpg"
+                },
+                {
+                    "name": "Yala National Park",
+                    "image": "./assets/img/International/Yala.jpg"
+                }
+            ],
             "videos": [
-                [
                     {
                         "id": 1,
                         "name": "Colombo",
-                        "thumbnail": "https://www.iibcc.biz/wp-content/uploads/2019/03/iibcc-2020-colombo-feat-2.jpg",
-                        "videoUrl": "5W8Wc_u78VU"
+                        "thumbnail": "./assets/img/International/Colombo.jpg",
+                        "videoUrl": "5W8Wc_u78VU?autoplay=1"
                     },
                     {
                         "id": 2,
-                        "name": "Sigiriya rock",
-                        "thumbnail": "https://i.natgeofe.com/n/0a6facf5-2d64-4603-8a8e-b2bd5fbba709/03-sigiriya-rock.jpg",
-                        "videoUrl": "ix5TlNnQA5g"
+                        "name": "Sigiriya Rock",
+                        "thumbnail": "./assets/img/International/Sigiriya.jpg",
+                        "videoUrl": "ix5TlNnQA5g?autoplay=1"
                     },
                     {
                         "id": 3,
                         "name": "Kandy City",
-                        "thumbnail": "https://lh3.googleusercontent.com/proxy/3F6wm0p7C2j3XI8T42GS6lv6jYYaaYUQ6zf1gjFacmXykAKf_eBUhWWoIK262xaEoeifQNMTrB5ORMs6ANIqEURykiWCghj43gpRCZwH159A92sErYSqcGafk-e7lUxTb4pNpw",
-                        "videoUrl": "3CR2Cpgo0_0"
+                        "thumbnail": "./assets/img/International/Kandy.jpg",
+                        "videoUrl": "3CR2Cpgo0_0?autoplay=1"
                     },
                     {
                         "id": 4,
                         "name": "12 things you must do in sri Lanka",
-                        "thumbnail": "https://cdn2.wanderlust.co.uk/media/1012/dreamstime_xl_41824781.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=131795741200000000",
-                        "videoUrl": "PTSvtOOySFA"
+                        "thumbnail": "./assets/img/International/12Things.jpg",
+                        "videoUrl": "PTSvtOOySFA?autoplay=1"
                     }
-                ]
             ]
         },
         {
             "name": "Canada",
-            "image": "https://becomeparents.com/wp-content/uploads/2018/12/Canada.jpg",
+            "image": "./assets/img/International/Canada.jpg",
+            "banner": "./assets/img/International/Canada2.jpg",
+            "tagLine" : "The Epitome of Ethnic Diversity",
+            "Information" : "The 2nd largest country in the world, and it continues to attract tourists with its diversity, hospitality and magnetic. beauty. Whether you are a daredevil or a nature lover, Canada has something for everyone. It is considered to be one of the most ethnically diverse countries in the world. Blessed with all of its natural attractions, it is the ideal place for fishing, rock climbing, canoeing, kayaking, etc. making it every adventurer's paradise. Everyone in Canada has the luxury of being able to taste food from all over the world thanks to the various communities who have settled here and sprinkled some of their cultures into Canada.",
+            "bestPlaces" : [
+                {
+                    "name": "Banff",
+                    "image": "./assets/img/International/Banff.jpg"
+                },
+                {
+                    "name": "Victoria",
+                    "image": "./assets/img/International/Victoria.jpg"
+                }
+            ],
             "videos": [
-                [
                     {
                         "id": 1,
                         "name": "Toronto",
-                        "thumbnail": "https://cdn.britannica.com/31/76031-050-162E5900/CN-Tower-rest-skyline-Toronto-world-structure.jpg",
-                        "videoUrl": "eeubLHILz6o"
+                        "thumbnail": "./assets/img/International/Toronto.jpg",
+                        "videoUrl": "eeubLHILz6o?autoplay=1"
                     },
                     {
                         "id": 2,
                         "name": "Quebec",
-                        "thumbnail": "",
-                        "videoUrl": "ri8x8jqnLUs"
+                        "thumbnail": "./assets/img/International/Quebec.jpg",
+                        "videoUrl": "ri8x8jqnLUs?autoplay=1"
                     },
                     {
                         "id": 3,
                         "name": "Niagara Falls",
-                        "thumbnail": "https://www.nsta.org/sites/default/files/hero/DailyDo_WhyIsNiagraFallsMoving_HP.jpg",
-                        "videoUrl": "_hZRG5gytIw"
+                        "thumbnail": "./assets/img/International/Niagara.jpg",
+                        "videoUrl": "_hZRG5gytIw?autoplay=1"
                     },
                     {
                         "id": 4,
                         "name": "Montreal",
-                        "thumbnail": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/32/54.jpg",
-                        "videoUrl": "uZV4C9xMwjY"
+                        "thumbnail": "./assets/img/International/Montreal.jpg",
+                        "videoUrl": "uZV4C9xMwjY?autoplay=1"
                     }
-                ]
             ]
         },
         {
             "name": "Spain",
-            "image": "https://lh3.googleusercontent.com/proxy/yECjMHS-nZEw3IvyqC1RmivRPncsE2Axc-3hFsublCVGfoWrs0nvi4G8lOQads9VMM3qcYmiTUAz-JwGidP3H73ylM3NSZINAn35OzleL1TOg3eDj_KsxCY",
+            "image": "./assets/img/International/Spain.jpg",
+            "banner": "./assets/img/International/Spain2.jpg",
+            "tagLine" : "An explorer's paradise",
+            "Information" : "Spain is considered to be one of the most exotic countries in Europe. It is not just known for its beaches, but also its snowy mountains and deserts. The country is historically rich with the third rank in the number of UNESCO World Heritage Sites in the world. It is also famous for the numerous festivals taking place. It is also architecturally marvellous with Islamic, Catholic and Renaissance architectural designs.",
+            "bestPlaces" : [
+                {
+                    "name": "Seville",
+                    "image": "./assets/img/International/Seville.jpg"
+                },
+                {
+                    "name": "Mallorca",
+                    "image": "./assets/img/International/Mallorca.jpg"
+                }
+            ],
             "videos": [
-                [
                     {
                         "id": 1,
                         "name": "Barcelona",
-                        "thumbnail": "https://cdn.vox-cdn.com/thumbor/9zHVj4OnM5pYeO8rCX-W4aL-lw0=/0x0:4428x1993/1200x800/filters:focal(1872x1198:2580x1906)/cdn.vox-cdn.com/uploads/chorus_image/image/63371518/shutterstock_785442694.0.jpg",
-                        "videoUrl": "uOzwwZxjPRs"
+                        "thumbnail": "./assets/img/International/Barcelona.jpg",
+                        "videoUrl": "uOzwwZxjPRs?autoplay=1"
                     },
                     {
                         "id": 2,
                         "name": "Madrid",
-                        "thumbnail": "https://skyticket.com/guide/wp-content/uploads/2017/12/iStock-686700242.jpg",
-                        "videoUrl": "tLYaQY8Kk_0"
+                        "thumbnail": "./assets/img/International/Madrid.jpg",
+                        "videoUrl": "tLYaQY8Kk_0?autoplay=1"
                     },
                     {
                         "id": 3,
                         "name": "Ibiza",
-                        "thumbnail": "https://d1bv4heaa2n05k.cloudfront.net/user-images/1534151940828/shutterstock-639796435_destinationMain_1534151949630.jpeg",
-                        "videoUrl": "9h9wt-Nrk_Y"
+                        "thumbnail": "./assets/img/International/Ibiza.jpg",
+                        "videoUrl": "9h9wt-Nrk_Y?autoplay=1"
                     },
                     {
                         "id": 4,
-                        "name": "valencia",
-                        "thumbnail": "https://s3-eu-west-1.amazonaws.com/uploads.services.internations.org/files/2015/07/05135350/Spain-Valencia-Living-2400x1404.jpeg",
-                        "videoUrl": "NmsFT_OdDlU"
+                        "name": "Valencia",
+                        "thumbnail": "./assets/img/International/Valencia.jpg",
+                        "videoUrl": "RLYS0tUcwWc?autoplay=1"
                     }
-                ]
+            ]
+        },
+        {                                                                                                              
+            "name": "Seychelles",
+            "image": "./assets/img/International/Seychelles.jpg",
+            "banner":"./assets/img/International/Seychelles2.jpg",
+            "tagLine" : "Honeymoon Destination",
+            "Information" : "one of the world’s smallest countries, is composed of two main island groups: the Mahé group of more than 40 central, mountainous granitic islands and a second group of more than 70 outer, flat, coralline islands. The islands of the Mahé group are rocky and typically have a narrow coastal strip and a central range of hills. The overall aspect of those islands, with their lush tropical vegetation, is that of high hanging gardens overlooking silver-white beaches and clear lagoons.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Honeymoon in Seychelles",
+                    "thumbnail": "./assets/img/International/Honeymoon.jpg",
+                    "videoUrl": "zyyeFEkBxTg?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Seychelles",
+                    "thumbnail": "./assets/img/International/Seychelles3.jpg",
+                    "videoUrl": "a3YduiUWxOI?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Tropical Paradise",
+                    "thumbnail": "./assets/img/International/Tropical.jpg",
+                    "videoUrl": "yfdfS-TEJhQ?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Aerial View",
+                    "thumbnail": "./assets/img/International/Seychelles4.jpg",
+                    "videoUrl": "GAt644a6TsY?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Israel",
+            "image": "./assets/img/International/Israel.jpg",
+            "banner":"./assets/img/International/Israel2.jpg",
+            "tagLine" : "The Holy Nation",
+            "Information" : "Bordered by Jordan, Egypt, Lebanon and Syria. It is also home to Jerusalem ( the birth place of Lord Jesus). It has a vibrant history and culture . It has ties to diversified religions, and this makes it a interesting place to visit for travellers . It is also a highly modernised country, and the regions are divided into cities which are further sub-divided into towns.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Jerusalem",
+                    "thumbnail": "./assets/img/International/Jerusalem.jpg",
+                    "videoUrl": "3Ktv6GBvxHQ?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Biblical Israel",
+                    "thumbnail": "./assets/img/International/Biblical.jpg",
+                    "videoUrl": "vd5L-wHAsLc?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Sea of Galilee",
+                    "thumbnail": "./assets/img/International/Galilee.jpg",
+                    "videoUrl": "dfUG6G3aRE8?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Bethlehem",
+                    "thumbnail": "./assets/img/International/Bethlehem.jpg",
+                    "videoUrl": "WkBt-iepC4M?autoplay=1"
+                },
+                {
+                    "id": 5,
+                    "name": "Nazareth",
+                    "thumbnail": "./assets/img/International/Nazareth.jpg",
+                    "videoUrl": "Vvh_MZuINBU?autoplay=1"
+                },
+                {
+                    "id": 6,
+                    "name": "Israel from the Sky",
+                    "thumbnail": "./assets/img/International/Sky.jpg",
+                    "videoUrl": "OJqK6f9dnRI?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Japan",
+            "image": "./assets/img/International/Japan.jpg",
+            "banner":"./assets/img/International/Japan2.jpg",
+            "tagLine" : "Home To Great Architecture & Great Food",
+            "Information" : "Located in Eastern Asia, is a sovereign nation. It is well known for its bustling cities, imperial palaces, national parks and lots of beautifully constructed temples. Tokyo, the capital of the country, is a much-visited tourist destination, home to tonnes of skyscrapers. There is a lot to do in Japan, from adventure sports to relaxing at the beach and discovering the real beauty of Japanese architecture.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Tokyo",
+                    "thumbnail": "./assets/img/International/Tokyo.jpg",
+                    "videoUrl": "ni-6BYMZ2Ys?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Kyoto, Osaka and Nara",
+                    "thumbnail": "./assets/img/International/Kyoto.jpg",
+                    "videoUrl": "rsaPboEZPFQ?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Nagasaki",
+                    "thumbnail": "./assets/img/International/Nagasaki.jpg",
+                    "videoUrl": "hNpk_gjOQwg?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Hiroshima",
+                    "thumbnail": "./assets/img/International/Hiroshima.jpg",
+                    "videoUrl": "ktCv_69ckwE?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Fukuoka",
+                    "thumbnail": "./assets/img/International/Fukuoka.jpg",
+                    "videoUrl": "CLxntu0QIFA?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Nara",
+                    "thumbnail": "./assets/img/International/Nara.jpg",
+                    "videoUrl": "WeLKdbkRj74?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Greece",
+            "image": "./assets/img/International/Greece.jpg",
+            "banner":"./assets/img/International/Greece2.jpg",
+            "tagLine" : "All-Time Classic",
+            "Information" : "Surrounded by crystal blue waters all around, Greece has 2000 islands among which only 160 are inhabited. It has everything that a traveller could ask for, starting from history and culture, huge mountains, golden beaches and ancient ruins. Along with the history, the culture in music, food and festivals is strongly held up high here.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Athens",
+                    "thumbnail": "./assets/img/International/Athens.jpg",
+                    "videoUrl": "fL3Cy7VJEHU?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Santorini",
+                    "thumbnail": "./assets/img/International/Santorini.jpg",
+                    "videoUrl": "n293QD4Icl4?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Crete",
+                    "thumbnail": "./assets/img/International/Crete.jpg",
+                    "videoUrl": "Wn7s-my8XRA?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Paros",
+                    "thumbnail": "./assets/img/International/Paros.jpg",
+                    "videoUrl": "w_AVw_qx1ck?autoplay=1"
+                }, 
+                {
+                    "id": 5,
+                    "name": "Milos",
+                    "thumbnail": "./assets/img/International/Milos.jpg",
+                    "videoUrl": "HhT24bw5fB0?autoplay=1"
+                },
+                {
+                    "id": 6,
+                    "name": "Thessaloniki, Pella and Environs",
+                    "thumbnail": "./assets/img/International/Pella.jpg",
+                    "videoUrl": "w_AVw_qx1ck?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Vietnam",
+            "image": "./assets/img/International/Vietnam.jpg",
+            "banner":"./assets/img/International/Vietnam2.jpg",
+            "tagLine" : "A Timeless Charm",
+            "Information" : "Vietnam is arguably one of the most beautiful countries in south-eastern Asia continent. Known for its natural beauty and abundance of natural attractions such as the vast paddy fields, limestone islands in Halong Bay or the massive cave system in Phong Nha Ke Bang National Park, the country provides quite an unmatched experience. On the other hand, moulded by its turbulent and war-torn history, Vietnam today is a distant shadow of its past with the cities and towns brimming with tall and looming skyscrapers, quaint floating markets and mopeds zooming through the roads.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Amazing Vietnam",
+                    "thumbnail": "./assets/img/International/Vietnam3.jpg",
+                    "videoUrl": "6dO7hQapCv0?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Vietnam",
+                    "thumbnail": "./assets/img/International/Vietnam4.jpg",
+                    "videoUrl": "6dO7hQapCv0?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Scenic Vietnam",
+                    "thumbnail": "./assets/img/International/Vietnam5.jpg",
+                    "videoUrl": "1onmNq081WI?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Traveling to Vietnam",
+                    "thumbnail": "./assets/img/International/Vietnam6.jpg",
+                    "videoUrl": "OWxS6EOOVkg?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Turkey",
+            "image": "./assets/img/International/Turkey.jpg",
+            "banner":"./assets/img/International/Turkey2.jpg",
+            "tagLine" : "A Land of Culture with Modern Twist",
+            "Information" : "Settled on the border of Asia and Europe, Turkey is an archive of Islamic Middle East impact and the influence of Christian European West. Turkey at present represents a modern and westernised culture that exists along with its more exotic and esoteric side hidden from outside world. Explore the dual sides of the country with the natural panoramic landscape, historic places, fertile valleys, huge mountain ranges, rugged coastline and quaint villages.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Istanbul",
+                    "thumbnail": "./assets/img/International/Istanbul.jpg",
+                    "videoUrl": "OgRXpa1eNBQ?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Turkey",
+                    "thumbnail": "./assets/img/International/Turkey3.jpg",
+                    "videoUrl": "z7yqtW4Isec?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "12 Days around Turkey",
+                    "thumbnail": "./assets/img/International/12Days.jpg",
+                    "videoUrl": "yC7lI5XRiW0?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Adventure in Turkey",
+                    "thumbnail": "./assets/img/International/Turkey4.jpg",
+                    "videoUrl": "fFA6G8ovxPk?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Hong Kong",
+            "image": "./assets/img/International/HongKong.jpg",
+            "banner":"./assets/img/International/HongKong2.jpg",
+            "tagLine" : "An Unmatched Cultural and Gastronomical Remedy",
+            "Information" : "Hong Kong is one of the most heavily populous regions in the world and the city with the most number of skyscrapers in the world. A major port and shopping hub, Hong Kong is the land of an iconic skyline, delectable cuisine, and protected lush nature reserves. Home to the second-largest sitting Buddha statue, the Tian Tan Buddha, the Fragrant Harbour has a majority of Confucian, Buddhist and Taoist followers. While sustaining ancient culture and tradition through architecture and festivities, Hong Kong perseveres to stand as an entertainment hub at the same time.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Exploring Hong Kong",
+                    "thumbnail": "./assets/img/International/HongKong3.jpg",
+                    "videoUrl": "rHMqQlDb98g?autoplay=1"
+                },
+                {
+                    "id": 2,
+                    "name": "Cinematic Hong Kong",
+                    "thumbnail": "./assets/img/International/HongKong4.jpg",
+                    "videoUrl": "QYFIh5RIKL4?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Wakeboarding in Hong Kong",
+                    "thumbnail": "./assets/img/International/Wakeboarding.jpg",
+                    "videoUrl": "JHhqu3ULDCY?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Hong Kong",
+                    "thumbnail": "./assets/img/International/HongKong5.jpg",
+                    "videoUrl": "avOdLP6-Rqc?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Mauritius",
+            "image": "./assets/img/International/Mauritius.jpg",
+            "banner":"./assets/img/International/Mauritius2.jpg",
+            "tagLine" : "Indian Ocean's Island Paradise",
+            "Information" : "With white sandy beaches, lush green foliage, turquoise blue waters, lavish resorts, Mauritius is the perfect honeymoon destination. Being a volcanically erupted island, it's completely surrounded by vast and colourful coral reefs making it an ideal place for snorkelling and scuba diving. Although Mauritius is world-famous for its heavenly beaches and resorts, it also has an intriguing history and unperturbed environmental beauty.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Casela World of Adventures",
+                    "thumbnail": "./assets/img/International/Casela.jpg",
+                    "videoUrl": "zXIpad7ifiU?autoplay=1&"
+                },
+                {
+                    "id": 2,
+                    "name": "Mauritius",
+                    "thumbnail": "./assets/img/International/Mauritius3.jpg",
+                    "videoUrl": "KR1-CIOBD64?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Blue Safari Subscooter",
+                    "thumbnail": "./assets/img/International/Blue.jpg",
+                    "videoUrl": "Zlca7R5k5lU?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Ile aux Cerfs",
+                    "thumbnail": "./assets/img/International/Ile.jpg",
+                    "videoUrl": "02H4h2JYl8Y?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Malaysia",
+            "image": "./assets/img/International/Malaysia.jpg",
+            "banner":"./assets/img/International/Malaysia2.jpg",
+            "tagLine" : "Truly Asia",
+            "Information" : "An intriguing blend of diverse wildlife, idyllic islands, magnanimous mountains, rainforests, and rich culinary landscape makes it one of the most visited tourist places in Asia. The multi-cultural, multi-ethnic, and multi-lingual country is divided into two regions by the South China Sea - Peninsular Malaysia and East Malaysia. Surrounding these territorial boundaries are stunning islands and an array of landscapes. Due to the immensity of beaches and vivid marine life, Malaysia also offers excellent scuba diving spots.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Leoland",
+                    "thumbnail": "./assets/img/International/Leoland.jpg",
+                    "videoUrl": "suCLo7L_z6M?autoplay=1&"
+                },
+                {
+                    "id": 2,
+                    "name": "Genting Highlands",
+                    "thumbnail": "./assets/img/International/Genting.jpg",
+                    "videoUrl": "7-1jhdOYdjY?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Penang",
+                    "thumbnail": "./assets/img/International/Penang.jpg",
+                    "videoUrl": "YtT1lbhuNiA?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Singapore",
+            "image": "./assets/img/International/Singapore.jpg",
+            "banner":"./assets/img/International/Singapore2.jpg",
+            "tagLine" : "The Quintessential Cosmopolitan",
+            "Information" : "Singapore, a microcosm of modern Asia is a melting pot of culture and history, and an extravaganza of culinary delights. Officially known as the Republic of Singapore, it is both a city and a country located in Southeast Asia. One of Asia's most visited destinations, Singapore is best described as an amalgam of a fast-paced life and an off-the-back-street inheritance.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Singapore",
+                    "thumbnail": "./assets/img/International/Singapore3.jpg",
+                    "videoUrl": "2ko34J1sRbc?autoplay=1&"
+                },
+                {
+                    "id": 2,
+                    "name": "Marina Bay Sands & Garden",
+                    "thumbnail": "./assets/img/International/MarinaBay.jpg",
+                    "videoUrl": "KR1-CIOBD64?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Night Safari",
+                    "thumbnail": "./assets/img/International/Night.jpg",
+                    "videoUrl": "kUhhFyZRxns?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Star Cruise Singapore",
+                    "thumbnail": "./assets/img/International/Star.jpg",
+                    "videoUrl": "nDKy8PvykM0?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "Thailand",
+            "image": "./assets/img/International/Thailand.jpg",
+            "banner":"./assets/img/International/Thailand2.jpg",
+            "tagLine" : "The Gateway to Southeast Asia",
+            "Information" : "A dreamy beachside paradise, is a country that has managed to retain its cultural integrity in spite of being a major tourist destination. One can find everything here - from pristine beaches to dense forests, ancient monasteries to coral reefs, from Buddhist monks to floating markets and finally the fragrant and rich food to treat your taste buds.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "Floating Market",
+                    "thumbnail": "./assets/img/International/Floating.jpg",
+                    "videoUrl": "_b7hc_iuVs0?autoplay=1&"
+                },
+                {
+                    "id": 2,
+                    "name": "Phi Phi island",
+                    "thumbnail": "./assets/img/International/Phi.jpg",
+                    "videoUrl": "2YMZPgqT-rE?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Alcazar Carbet Show",
+                    "thumbnail": "./assets/img/International/Alcazar.jpg",
+                    "videoUrl": "AmTUSY8BbUA?autoplay=1"
+                }
+            ]
+        },
+        {                                                                                                              
+            "name": "USA",
+            "image": "./assets/img/International/usa.jpg",
+            "banner":"./assets/img/International/usa2.jpg",
+            "tagLine" : "All Within Your Reach",
+            "Information" : "One of the largest and most diverse countries in the world, The United States boast an amazing amount of tourist destinations ranging from the skyscrapers of New York and Chicago, fantastic views of the San Francisco Bay and brilliant summer weather to the sunny beaches of California, Florida and Hawaii.",
+            "bestPlaces" : {},
+            "videos": [
+                {
+                    "id": 1,
+                    "name": "New York",
+                    "thumbnail": "./assets/img/International/NewYork.jpg",
+                    "videoUrl": "X0SevgY5yaE?autoplay=1&"
+                },
+                {
+                    "id": 2,
+                    "name": "Chicago",
+                    "thumbnail": "./assets/img/International/Chicago.jpg",
+                    "videoUrl": "bMJ7KwqiO8c?autoplay=1"
+                },
+                {
+                    "id": 3,
+                    "name": "Las Vegas",
+                    "thumbnail": "./assets/img/International/LasVegas.jpg",
+                    "videoUrl": "wsOAUJgI5B8?autoplay=1"
+                },
+                {
+                    "id": 4,
+                    "name": "Washington DC",
+                    "thumbnail": "./assets/img/International/Washington.jpg",
+                    "videoUrl": "c5yvBK5SDWI?autoplay=1"
+                },
+                {
+                    "id": 5,
+                    "name": "San Francisco",
+                    "thumbnail": "./assets/img/International/SanFrancisco.jpg",
+                    "videoUrl": "h_ayZ-xcMd4?autoplay=1&"
+                },
+                {
+                    "id": 6,
+                    "name": "Miami",
+                    "thumbnail": "./assets/img/International/Miami.jpg",
+                    "videoUrl": "9vfNDed835A?autoplay=1"
+                },
+                {
+                    "id": 7,
+                    "name": "Los Angeles",
+                    "thumbnail": "./assets/img/International/LosAngeles.jpg",
+                    "videoUrl": "iAkPMDaW3sg?autoplay=1"
+                },
+                {
+                    "id": 8,
+                    "name": "Hawaii",
+                    "thumbnail": "./assets/img/International/Hawaii.jpg",
+                    "videoUrl": "6XZOgg9WRhI?autoplay=1"
+                }
+
             ]
         }
     ]

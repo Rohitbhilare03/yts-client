@@ -29,7 +29,7 @@
                         <div class="element grid classic4_cols animated2" *ngFor="let eachLoc of selectedLocation?.places">
 
                             <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-2" [ngStyle]="{'background-image': 'url(' + eachLoc?.image + ')'}">
-                                {{eachLoc?.image}}<a class="tour_image" [routerLink]="['/destination/'+destination+'/'+ eachLoc.name]"></a>
+                                <a class="tour_image" [routerLink]="['/destination/'+destination+'/'+ eachLoc.name]"></a>
                                 <div class="portfolio_info_wrapper">
                                     <h3>{{eachLoc.name}}</h3>
                                 </div>
