@@ -1,7 +1,7 @@
 [
     {
         "name": "North",
-        "banner": "./assets/img/rajasthan/rajasthan.jpg",
+        "banner": "./assets/img/North.jpg",
         "places": [
             {
                 "name": "Haryana",
@@ -670,7 +670,7 @@
                 "tagline": "Amazing Heritage Grand Experiences.",
                 "banner": "./assets/img/Uttar Pradesh/Banner10.jpg",
                 "description": "It is the home to some of the most beautiful monuments and cultural sights in India.",
-                "image": "./assets/img/Uttar Pradesh/Fatehpur Sikri.jpg",
+                "image": "./assets/img/FatehpurSikri.jpg",
                 "largestCity": "Agra",
                 "officialLang": "Hindi",
                 "NearestAirport": "Lucknow, Varanasi, Allahabad",
@@ -993,7 +993,7 @@
     },
     {
         "name": "East",
-        "banner": "https://www.purvidiscovery.com/uploads/mizoram.jpg",
+        "banner": "./assets/img/East.jpg",
         "places": [
             {
                 "name": "Bihar",
@@ -1434,7 +1434,7 @@
                 "tagline": "Beautiful Bengal.",
                 "banner": "./assets/img/West Bengal/Banner11.jpg",
                 "description": "The culture of the state is adorned by colourful fairs and festivals every month. A vast number of famous pilgrimages also attract a large number of tourists of all faiths and beliefs.",
-                "image": "./assets/img/West Bengal/West Bengal.jpg",
+                "image": "./assets/img/WestBengal.jpg",
                 "largestCity": "Kolkata",
                 "officialLang": "Hindi",
                 "NearestAirport": "Kolkata, Bagdogra",
@@ -2797,7 +2797,7 @@
     },
     {
         "name": "South",
-        "banner": "./assets/img/rajasthan/lakepichola.jpg",
+        "banner": "./assets/img/South.jpg",
         "places": [
             {
                 "name": "Andhra Pradesh",
@@ -3617,7 +3617,7 @@
     },
     {
         "name": "West",
-        "banner": "./assets/img/Maharashtra/Maharashtra.jpg",
+        "banner": "./assets/img/West.jpg",
         "places": [
             {
                 "name": "Goa",
@@ -4134,6 +4134,275 @@
                             {
                                 "name": "Rampuriya Haveli",
                                 "image": "./assets/img/rajasthan/rampuriya.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Union",
+        "banner": "./assets/img/Union/Union2.jpg",
+        "places": [
+            {
+                "name": " Ladakh",
+                "tagline": "India's Own Moonland.",
+                "banner": "./assets/img/Union/Ladakh2.jpg",
+                "description": "A land like no other with a superabundance of attractions to visit and fabulous landscapes, amazing people and culture, Ladakh is truly a heaven on Earth. Following a long pending demand to make Ladakh a Union territory, it was finally bifurcated on 31 October 2019. The Union Territory of Ladakh is without Legislature. It comprise of two districts- Leh and Kargil.",
+                "image": "./assets/img/Union/Ladakh.jpg",
+                "largestCity": "Leh",
+                "officialLang": "Hindi",
+                "NearestAirport": "Leh",
+                "BestTime": "June to September",
+                "longDescription": "Stunning Gompas (Tibetan Buddhist monasteries), fluttering prayer flags, whitewashed stupas, Ladakh is a riot of intricate murals and red-robed monks. Dominated by dramatic landscapes, Ladakh is known as the world's coldest desert.  It is said that only in Ladakh can a man sitting in the sun with his feet in the shade suffer from sunstroke and frostbite at the same time.",
+                "placesToVisit": [
+                    {
+                        "name": "Leh Palace",
+                        "description": "Also known as 'Lhachen Palkhar,' is a 17th-century former royal palace and one of the central attractions in Leh. Built under the patronage of by King Sengge Namgyal, it used to house his family. The nine-storey dun-coloured palace now houses a museum and a prayer room, while the highlight is the sweeping view of Leh and the surrounding Zanskar mountain from the rooftop.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Leh.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magnetic Hill",
+                        "description": "The popular Magnetic Hill of Ladakh is a cyclops hill where vehicles defy the force of gravity and move upwards on the hill when parked at the marked location. To experience this phenomenon, park the car in neutral gear in the yellow box marked a few metres ahead of the Magnetic Hill road. From this point, the car starts moving at a speed of 20 kmph.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Magnetic.jpg"
+                            }
+                        ] 
+                    },
+                    {
+                        "name": "Zanskar Valley",
+                        "description": "Pronounced as Zahar or Zangskar locally, it is separated from Ladakh by Zanskar mountain range which is a part of The Tethys Himalayas. Zanskar is known for raw landscape and is mostly travelled to for trekking and river rafting. The semi-desert region is flanked by snow-capped mountains and sparkling clean rivers along with distinct flora and fauna. The easiest way of reaching Zanskar is from Kargil through Suru Valley.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Zanskar.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nubra Valley",
+                        "description": "Nubra Valley is located at a distance of around 140 Km from Leh. With arid mountains in the backdrop, it is famous for the Bactrian camel rides, orchards and monasteries. Surrounded by snow-dusted Himalayan mountains, it can be reached via Khardung La.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Nubra.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pangong Lake",
+                        "description": "Pangong lake is an endorheic (landlocked) lake situated at 4350 meters. Also known as Pangong Tso, it is 12 kilometres long and extends from India to Tibet. Almost 60% of Pangong Lake lies in the Tibetan Autonomous Region. A unique feature of the lake is that it does not remain blue throughout the year or even the day, rather it changes colours from azure to light blue to green and grey too! It is famous amongst tourists as the spot where the Bollywood movie '3 Idiots' was shot.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Pangong.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Khardung La",
+                        "description": "Also known as Khardzong La, is one of the highest motorable roads in India at an elevation of 5602 metres. It serves as the gateway to Shyok and Nubra Valley. An inner line permit is required to visit. It remains closed from October to May.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Khardung.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dadra-Nagar Haveli & Diu-Daman",
+                "tagline": "Heritage, Culture and Beaches.",
+                "banner": "./assets/img/Union/Daman2.jpg",
+                "description": "The cool beaches, greenery, scenic natural beauty and most of all, its easy availability of cheap liquor makes Daman a popular destination among youths and even as a getaway for those in Gujrat.",
+                "image": "./assets/img/Union/Daman.jpg",
+                "largestCity": "Port Blair",
+                "officialLang": "English",
+                "NearestAirport": "Mumbai",
+                "BestTime": "October to April",
+                "longDescription": "A beautiful little city, surrounded by states of Gujarat, Maharashtra and Arabian sea on the sides. The place has a rich culture and history. Its history dates back to over 2000 years ago. The present is tinted in colors of enjoyment, simplicity, and festivity. Beaches of the area let it stand out as a centre of natural beauty together with hints of fun. What adds on to the tourist experience here is the shopping scene which ranges from leather products, exquisite brands of liquor to handcrafted items.",
+                "placesToVisit": [
+                    {
+                        "name": "Devka beach",
+                        "description": "Devka beach is a sight of pure beauty. Like so many other beaches of Daman, this too is a massive, picturesque and quite unspoilt. The place has clean blue waters, well maintained shores and enough beauty for everybody. Also, there is a special Amusement Park here which houses huge fountains and play area for kids.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Devka.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lighthouse",
+                        "description": "The Lighthouse is sure to leave an imprint on your mind. Every tourist who visits Daman and Diu loves this site. Standing tall, the Lighthouse offers a magnificent view of the sunset. It is a major landmark of the town and is situated inside a fort. An excellent view of the sea traffic can also be seen from here.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Lighthouse.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mirasol Lake Garden",
+                        "description": "Surrounded by a beautiful lake and two island connected by a bridge, the place is very calm and peaceful. Boat rides and fountains add to the beauty of this charming garden. The garden also has facilities for other activities like computer games and toy train etc. which makes it_‹_s a favourite hotspot for picnickers. With a water park located just next it, this amazing lake garden also serves as a located for many film shootings.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Mirasol.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cathedral of Bom Jesus",
+                        "description": "Daman has a strong link to the Catholics owing to its Portuguese connection and Cathedral of Bom Jesus is among the most important religious monument for them. Out of the various holy places, the Cathedral of Bom Jesus is a one of the most popular one. Built long back in 1603, the structure is still beautiful. The astounding design, expert architecture and fine craftsmanship surely reflect the passion with which the Portuguese built this cathedral.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Cathedral.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mirasol Water Park & Resort",
+                        "description": "A tastefully designed resort complete with modern amenities, playground coupled with miles of tubing adventures. There is a also a multi-cuisine restaurant available at the complex for satisfying those hunger pangs after hours of splashing the crystal clear water.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Resort.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dominican Monastery",
+                        "description": "Formerly a catholic monastery and a place of worship, Dominican Monastery is a representation of historic ruins bearing a testimony to its own glorious past. It also served as the headquarters of theological studies and had attracted many catholic scholars from far and wide places. When one enters the place, it mesmerizes them with by the sight of the beautifully engraved floral stone dotting the main alter.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Dominican.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lakshadweep",
+                "tagline": "One Hundred Thousand Islands.",
+                "banner": "./assets/img/Union/Lakshadweep2.jpg",
+                "description": "Literally meaning a 'hundred thousand islands', Lakshadweep has few of the most beautiful and exotic islands and beaches of India. The smallest union territory of India, Lakshadweep was formerly a part of Madras (now Chennai) and was separated and given the status of Union Territory.",
+                "image": "./assets/img/Union/Lakshadweep.jpg",
+                "largestCity": "Kavaratti",
+                "officialLang": "Malayalam",
+                "NearestAirport": "Agatti Aerodrome, Cochin",
+                "BestTime": "September to February",
+                "longDescription": "Initially, it was called the Laccadive, Minicoy and Aminidivi islands until the name Lakshadweep was officially adopted on the 1st of November of 1973. It is the smallest among all the union territories of India in terms of area and lies in the Laccadive sea south-west from the Indian peninsula mainland.",
+                "placesToVisit": [
+                    {
+                        "name": "Minicoy Island",
+                        "description": "One of the 36 small islets of Lakshadweep group of Islands, Minicoy, also known as Maliku in the local language is one of the best-kept secrets of India. It is located amidst the vast expanse of Arabian Sea, just 398 km or 215 nautical miles from the shores of Cochin.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Minicoy.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Agatti Island",
+                        "description": "The island is situated on one of the coral isles of Lakshadweep islands and is few of the islands from the Lakshadweep group that is inhabited by people. One may explore the island on foot or rent a two-wheeler to commute. ",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Agatti.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bangaram Island",
+                        "description": "The Bangaram Island encompasses an area of 1.234 km2 and is the largest island in the chain of islands in the region (also known as an atoll) with a beautiful lagoon. With a population of only 10 and just one beach resort, it is an apt destination for people who want to disconnect entirely from the fast-paced world.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Bangaram.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scuba Diving",
+                        "description": "It is one of the most popular activities amongst travellers. Agatti, Bangaram and Kadmat islands are the three islands that prove a perfect setting for the Scuba. Each dive centre has attached resorts catering to the needs of beginners as well as those interested in CMAS and PADI courses by certified divers. The islands are also enriched with a diverse variety of tropical fishes, vibrant corals and other creatures like turtles, rays and coral sharks.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Scuba.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kavaratti Island",
+                        "description": "An island has amazing white coral-sand beaches, calm and soothing lagoons and immense greenery! Like all other islands in the vicinity, this too is a nature lover's paradise! The dancing coconut leaves, smell of the salty ocean and the sound of the waves are something that any tourist will never forget.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Kavaratti.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pondicherry",
+                "tagline": "The French Riviera of the East.",
+                "banner": "./assets/img/Union/Pondicherry2.jpg",
+                "description": "Also known as Puducherry, was formed in 1962, out of the former French colonies of Mahe, Pondicherry, Karaikal and Yanam. These colonies are now the districts under Pondicherry. Karaikal and Puducherry districts are bound by Tamil Nadu while the remaining districts of Mahe and Yanam are bound by Kerala and Andhra Pradesh respectively.",
+                "image": "./assets/img/Union/Pondicherry.jpg",
+                "largestCity": "Pondicherry",
+                "officialLang": "Tamil, Malayalam, Telugu & English",
+                "NearestAirport": "Pudducherry",
+                "BestTime": "October to March",
+                "longDescription": "The streets of the French Quarter of Pondicherry, also known as White Town, are dotted with charming mustard-yellow colonial structures with bougainvillaea laden walls. These are interspersed with cosy cafes and chic boutiques that offer delectable French cuisine and beverages. Simply strolling down these streets, can give the traveller an insight into the fairytale charm of Pondicherry.",
+                "placesToVisit": [
+                    {
+                        "name": "Paradise Beach",
+                        "description": "Also known as Plage Paradiso, is situated in Chunnambar, close to Pondicherry town. Adorned with the golden sand, this is a little-isolated beach. To reach here, you have to take a ferry across the backwaters, which takes around 20-30 minutes. There are a few shacks along the main entrance to the beach, and you can get fresh coconut water and some simple snacks - don't expect any fancy street food though.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/ParadiseBeach.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Auroville",
+                        "description": "In the union territory of Pondicherry, this township runs on the principles of peace, harmony, sustainable living and 'divine consciousness' which was the philosophy of the Mother of Sri Aurobindo Society, Mirra Alfassa. This universal township was inaugurated on 28 February 1968 with the agenda that it will be a place with people willing enough to make this a hub of uninterrupted education and progress, regardless of their caste, creed, nationality or race.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Auroville.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Arikamedu",
+                        "description": "Arikamedu are the ruins which carried the remnants of the Roman trade in India. Recent excavations have brought out wine jars and ancient roman coins hinting on the Roman links in the ancient history of Pondicherry.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Arikamedu.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Promenade Beach",
+                        "description": "Promenade beach is a different kind of beach with less sand and more rocks. It offers a very peaceful place to its tourists and visitors to sit and enjoy the waves.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Promenade.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sri Aurobindo Ashram",
+                        "description": "A spiritual community or ashram located in Pondicherry, is the outcome of a small community of disciples who had gathered around Sri Aurobindo after he retired from politics and settled in Pondicherry in 1910. On 24 November 1926, after a major spiritual realization, Sri Aurobindo withdrew from public view in order to continue his spiritual work.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/Aurobindo.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "French Cafes in Pondicherry",
+                        "description": "Pondicherry is gamous for its cheap alcohol and if you are a connoisseur, then it is an excellent place for you to visit as it serves a wide variety of gourmet food. It definitely has the best cafes around and offers a great cuisine. If you always dreamt of sitting in a French café and sipping a cup of coffee or taking a bite but are unable to visit France, then Pondy should be on your checklist. It has the best French cafes in India.",
+                        "images": [
+                            {
+                                "image": "./assets/img/Union/French.jpg"
                             }
                         ]
                     }
